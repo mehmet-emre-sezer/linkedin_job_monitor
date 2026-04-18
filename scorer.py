@@ -28,14 +28,25 @@ Başlık: {title}
 Açıklama:
 {description}
 
-Bu ilanı adaya uygunluk açısından 0-100 arasında puanla.
-Kurallar:
-- Puan artır: junior/entry-level, remote/hybrid, Python/ML/NLP odaklı ise
-- Puan düşür: 3+ yıl deneyim şartı, senior ünvan, alakasız teknoloji stack'i varsa
-- 70 ve üzeri iyi eşleşme sayılır
+ADIM 1 — DİSKALİFİYE KONTROL (önce bunu yap):
+Aşağıdakilerden biri varsa skor MAKSIMUM 25 olur, sonraki adıma geçme:
+- 3 veya daha fazla yıl deneyim şartı
+- Senior / Lead / Principal / Manager / Specialist (5+ yıl) ünvanı
+- Birincil stack .NET, C#, Java, PHP, Ruby, Swift, Kotlin (Python olmadan)
+- Yalnızca mobil geliştirme (iOS/Android)
+- Yalnızca frontend (Python/backend olmadan)
+
+ADIM 2 — PUAN ARTIRAN FAKTÖRLER:
+- Junior / Entry-Level / Intern / Graduate / Stajyer: +20
+- Remote veya Hybrid: +10
+- Python birincil dil: +15
+- ML / NLP / Data Science / AI / LLM odaklı: +15
+- SQL / API / Backend Python: +10
+
+ADIM 3 — TOPLAM SKORU 0-100 arasında hesapla.
 
 SADECE geçerli JSON döndür, başka hiçbir şey yazma:
-{{"score": <sayı>, "reason": "<tek cümle Türkçe açıklama>"}}"""
+{{"score": <sayı>, "reason": "<Türkçe: skoru etkileyen ana faktör — diskalifiye olduysa sebebini yaz>"}}"""
 
 
 def score_job(job: dict) -> dict | None:
