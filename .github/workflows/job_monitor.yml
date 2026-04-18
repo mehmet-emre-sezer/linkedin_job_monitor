@@ -1,0 +1,52 @@
+name: LinkedIn Job Monitor
+
+on:
+  schedule:
+    - cron: "0 7 * * *"   # 07:00 UTC = 10:00 Türkiye
+    - cron: "0 12 * * *"  # 12:00 UTC = 15:00 Türkiye
+    - cron: "0 17 * * *"  # 17:00 UTC = 20:00 Türkiye
+  workflow_dispatch:       # elle de çalıştırılabilir
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo'yu çek
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Chrome kur
+        uses: browser-actions/setup-chrome@v1
+
+      - name: Bağımlılıkları yükle
+        run: pip install -r requirements.txt
+
+      - name: profile.json oluştur
+        run: echo '${{ secrets.PROFILE_JSON }}' > profile.json
+
+      - name: queries.json oluştur
+        run: echo '${{ secrets.QUERIES_JSON }}' > queries.json
+
+      - name: Job monitor'ı çalıştır
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+          GROQ_API_KEY:       ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL:         llama-3.3-70b-versatile
+          SCORE_THRESHOLD:    "70"
+          CV_PATH:            ""   # Actions'da CV gerekmez, profile.json zaten var
+        run: python main.py
+
+      - name: seen_jobs.json'ı kaydet
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add seen_jobs.json
+          git diff --staged --quiet || git commit -m "chore: update seen_jobs [skip ci]"
+          git push
