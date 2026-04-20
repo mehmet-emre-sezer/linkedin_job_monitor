@@ -28,25 +28,18 @@ Başlık: {title}
 Açıklama:
 {description}
 
-ADIM 1 — DİSKALİFİYE KONTROL (önce bunu yap):
-Aşağıdakilerden biri varsa skor MAKSIMUM 25 olur, sonraki adıma geçme:
+ÖNCE ŞUNLARı KONTROL ET:
+Aşağıdakilerden biri varsa skor MAKSIMUM 25 olur:
 - 3 veya daha fazla yıl deneyim şartı
-- Senior / Lead / Principal / Manager / Specialist (5+ yıl) ünvanı
+- Senior / Lead / Principal / Manager ünvanı
 - Birincil stack .NET, C#, Java, PHP, Ruby, Swift, Kotlin (Python olmadan)
 - Yalnızca mobil geliştirme (iOS/Android)
 - Yalnızca frontend (Python/backend olmadan)
 
-ADIM 2 — PUAN ARTIRAN FAKTÖRLER:
-- Junior / Entry-Level / Intern / Graduate / Stajyer: +20
-- Remote veya Hybrid: +10
-- Python birincil dil: +15
-- ML / NLP / Data Science / AI / LLM odaklı: +15
-- SQL / API / Backend Python: +10
-
-ADIM 3 — TOPLAM SKORU 0-100 arasında hesapla.
+Yukarıdakiler yoksa adayın profilini, deneyim seviyesini, teknoloji tercihlerini ve kariyer hedeflerini göz önünde bulundurarak 0-100 arasında puanla.
 
 SADECE geçerli JSON döndür, başka hiçbir şey yazma:
-{{"score": <sayı>, "reason": "<Türkçe: skoru etkileyen ana faktör — diskalifiye olduysa sebebini yaz>"}}"""
+{{"score": <sayı>, "reason": "<Türkçe: neden bu skoru verdin, tek cümle>"}}"""
 
 
 def score_job(job: dict) -> dict | None:
