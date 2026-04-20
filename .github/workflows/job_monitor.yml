@@ -45,10 +45,10 @@ jobs:
           CV_PATH:            ""   # Actions'da CV gerekmez, profile.json zaten var
         run: python main.py
 
-      - name: seen_jobs.json'ı kaydet
+      - name: seen_jobs.json ve run_history.json'ı kaydet
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add seen_jobs.json
-          git diff --staged --quiet || git commit -m "chore: update seen_jobs [skip ci]"
+          git add seen_jobs.json run_history.json
+          git diff --staged --quiet || git commit -m "chore: update seen_jobs and run_history [skip ci]"
           git push
