@@ -14,7 +14,7 @@ GROQ_MODEL   = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
 SCORE_THRESHOLD = int(os.getenv("SCORE_THRESHOLD", "70"))
 
 # LinkedIn location filter (empty string = worldwide)
-SEARCH_LOCATION = "Turkey"
+SEARCH_LOCATION = "Istanbul, Turkey"
 
 # How many jobs to process per query per run
 JOBS_PER_QUERY = 5

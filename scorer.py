@@ -40,7 +40,7 @@ DEĞERLENDİRME KURALLARI:
 - "Required", "Qualifications", "Must have" bölümündeki eşleşmelere yüksek ağırlık ver
 - "Nice to have", "Preferred", "Plus" bölümündeki eşleşmelere düşük ağırlık ver
 - Zorunlu bölümde ciddi uyumsuzluk varsa skoru buna göre düşür
-- Konum: Remote ve Hybrid tercih edilir, On-site de kabul edilebilir
+- Konum: Remote, Hybrid ve On-site hepsi kabul edilebilir
 
 ÖRNEKLER:
 
