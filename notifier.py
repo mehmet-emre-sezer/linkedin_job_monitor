@@ -5,12 +5,15 @@ from config import TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
 logger = logging.getLogger(__name__)
 
 
-def send_job_notification(job: dict, score: int | None, reason: str | None):
+def send_job_notification(job: dict, score: int | None, reason: str | None,
+                          matches: list | None = None, mismatches: list | None = None):
     score_line      = f"⭐ Puan: *{score}/100*\n"                    if score is not None      else ""
     reason_line     = f"🧠 {_escape(reason)}\n"                      if reason                 else ""
     location_line   = f"📍 {_escape(job.get('location', ''))}\n"     if job.get("location")    else ""
     posted_line     = f"🕐 {_escape(job.get('posted_at', ''))}\n"    if job.get("posted_at")   else ""
     applicants_line = f"👥 {_escape(job.get('applicants', ''))}\n"   if job.get("applicants")  else ""
+    matches_line    = f"✅ {_escape(', '.join(matches))}\n"           if matches                else ""
+    mismatches_line = f"❌ {_escape(', '.join(mismatches))}\n"        if mismatches             else ""
     text = (
         f"🔥 *{_escape(job['title'])}*\n"
         f"🏢 {_escape(job['company'])}\n"
@@ -19,6 +22,8 @@ def send_job_notification(job: dict, score: int | None, reason: str | None):
         f"{applicants_line}"
         f"{score_line}"
         f"{reason_line}"
+        f"{matches_line}"
+        f"{mismatches_line}"
         f"🔗 [İlana Git]({job['link']})"
     )
 

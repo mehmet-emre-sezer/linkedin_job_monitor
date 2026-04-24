@@ -103,7 +103,13 @@ def run():
                 query_results[q].append(entry)
 
         if score >= SCORE_THRESHOLD:
-            send_job_notification(job, score=score, reason=reason)
+            send_job_notification(
+                job,
+                score=score,
+                reason=reason,
+                matches=result.get("matches"),
+                mismatches=result.get("mismatches"),
+            )
             sent += 1
 
     save_seen_jobs(seen)
