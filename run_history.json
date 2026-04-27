@@ -23,5 +23,51 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-04-27T13:53:22.275550",
+    "queries": [
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\" OR \"Graduate\" OR \"New Grad\") AND (\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\" OR \"Software Engineer\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": [
+          {
+            "title": "Junior Software Engineer",
+            "company": "QberX",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Analysis\" OR \"Machine Learning\" OR \"Deep Learning\") AND (\"Software Development\" OR \"Technical Support\") AND (Python OR Java OR SQL)",
+        "jobs": [
+          {
+            "title": "Java Software Engineer",
+            "company": "NeviTech",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Junior Data Scientist\" OR \"Entry Level Machine Learning Engineer\" OR \"Graduate AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Software Engineer\" OR \"Data Scientist\" OR \"Machine Learning Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Time Series Analysis\" OR \"Feature Engineering\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Entry Level\" OR \"Junior\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Long-Term Intern",
+            "company": "Firstpoint VC",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      }
+    ]
   }
 ]
