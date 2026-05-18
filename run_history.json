@@ -1,1 +1,55 @@
-[]
+[
+  {
+    "timestamp": "2026-05-18T11:10:44.094832",
+    "queries": [
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\" OR \"Graduate\" OR \"New Grad\") AND (\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\" OR \"Software Engineer\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": [
+          {
+            "title": "Junior Data Scientist",
+            "company": "QNB Türkiye",
+            "score": 25,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Analysis\" OR \"Machine Learning\" OR \"Deep Learning\") AND (\"Software Development\" OR \"Technical Support\") AND (Python OR Java OR SQL)",
+        "jobs": [
+          {
+            "title": "AI & Software R&D Team Lead",
+            "company": "SemperTech",
+            "score": 25,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Junior Data Scientist\" OR \"Entry Level Machine Learning Engineer\" OR \"Graduate AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": [
+          {
+            "title": "Junior Data Scientist",
+            "company": "QNB Türkiye",
+            "score": 25,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Software Engineer\" OR \"Data Scientist\" OR \"Machine Learning Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Time Series Analysis\" OR \"Feature Engineering\")",
+        "jobs": [
+          {
+            "title": "Junior Data Scientist",
+            "company": "QNB Türkiye",
+            "score": 25,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Entry Level\" OR \"Junior\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": []
+      }
+    ]
+  }
+]
