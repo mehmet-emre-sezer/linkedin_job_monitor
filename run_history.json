@@ -80,5 +80,155 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-21T20:58:51.711098",
+    "queries": [
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\" OR \"Graduate\" OR \"New Grad\") AND (\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\" OR \"Software Engineer\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": [
+          {
+            "title": "AI Software Engineer",
+            "company": "AloTech",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Analysis\" OR \"Machine Learning\" OR \"Deep Learning\") AND (\"Software Development\" OR \"Technical Support\") AND (Python OR Java OR SQL)",
+        "jobs": [
+          {
+            "title": "AI Software Engineer",
+            "company": "AloTech",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Product Engineer",
+            "company": "Mavi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Veri, Model ve Analitik Platformlar Yönetişimi Uzmanı/Yetkili/Yönetmeni",
+            "company": "DenizBank",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Java Developer",
+            "company": "Finartz Connect",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Yazılım Uzmanı (Java)",
+            "company": "Maroteknoloji",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "İş Analisti (Mobil)",
+            "company": "Maroteknoloji",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "İK Analitiği Yetkilisi/Yöneticisi",
+            "company": "Burgan Bank Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Analist Yazılımcı/Müdür",
+            "company": "Global Menkul Değerler A.Ş.",
+            "score": 60,
+            "sent": false
+          },
+          {
+            "title": "Data Analytics Executive",
+            "company": "Keiken Consultancy",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior Python Engineer (Remote)",
+            "company": "Windsor.ai",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Research Engineer (Agentic Post-training)",
+            "company": "Jobgether",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior Data Analyst",
+            "company": "Jobgether",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Analitik CRM Yöneticisi",
+            "company": "Özak Global Holding",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Junior Data Scientist\" OR \"Entry Level Machine Learning Engineer\" OR \"Graduate AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": [
+          {
+            "title": "AI Software Engineer",
+            "company": "AloTech",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Entry Level\" OR \"Junior\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "AI Software Engineer",
+            "company": "AloTech",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "YAPAY ZEKA STAJYERİ",
+            "company": "Cizgi Technology Electronic Design and Manufacturing Inc.",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Full Stack Developer\" OR \"Frontend Developer\" OR \"Backend Developer\") AND (React OR Node.js OR Python OR Django OR \"REST API\")",
+        "jobs": [
+          {
+            "title": "AI Software Engineer",
+            "company": "AloTech",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Software Developer – KPI Development",
+            "company": "Vispera",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "YAZILIM BÖLÜMÜ STAJ BAŞVURUSU",
+            "company": "Cizgi Technology Electronic Design and Manufacturing Inc.",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      }
+    ]
   }
 ]
