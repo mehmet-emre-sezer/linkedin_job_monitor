@@ -28,9 +28,9 @@ Başlık: {title}
 Açıklama:
 {description}
 
-ÖNCE DİSKALİFİYE KONTROL ET:
-Aşağıdakilerden biri varsa skor MAKSIMUM 25 olur:
-- 3 veya daha fazla yıl deneyim şartı (Required/Qualifications bölümünde)
+KESİN KURAL — BAŞKA HİÇBİR FAKTÖRÜ DİKKATE ALMA:
+Aşağıdakilerden biri varsa skor KESİNLİKLE 10 olacak, ilanın diğer özellikleri ne kadar iyi olursa olsun:
+- 3 veya daha fazla yıl deneyim şartı (Required/Qualifications/Must have bölümünde)
 - Senior / Lead / Principal / Manager ünvanı
 - Birincil stack .NET, C#, Java, PHP, Ruby, Swift, Kotlin (Python olmadan)
 - Yalnızca mobil geliştirme (iOS/Android)
@@ -47,7 +47,7 @@ DEĞERLENDİRME KURALLARI:
 Kötü eşleşme:
 Başlık: Agentic AI Data Scientist
 Sinyal: "At least 3+ years of work experience in Data Science" — Required bölümünde
-Çıktı: {{"score": 15, "matches": [], "mismatches": ["Required: 3+ yıl deneyim şartı"], "reason": "Required bölümünde 3+ yıl deneyim şartı var, diskalifiye edildi"}}
+Çıktı: {{"score": 10, "matches": [], "mismatches": ["Required: 3+ yıl deneyim şartı"], "reason": "Required bölümünde 3+ yıl deneyim şartı var, diskalifiye edildi"}}
 
 Orta eşleşme:
 Başlık: Junior AI Engineer

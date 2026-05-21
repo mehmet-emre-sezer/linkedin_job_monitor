@@ -32,8 +32,11 @@ jobs:
       - name: profile.json oluştur
         run: echo '${{ secrets.PROFILE_JSON }}' > profile.json
 
-      - name: queries.json oluştur
-        run: echo '${{ secrets.QUERIES_JSON }}' > queries.json
+      - name: queries.json oluştur (yoksa)
+        run: |
+          if [ ! -f queries.json ]; then
+            echo '${{ secrets.QUERIES_JSON }}' > queries.json
+          fi
 
       - name: Job monitor'ı çalıştır
         env:
@@ -49,6 +52,6 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add seen_jobs.json run_history.json
+          git add seen_jobs.json run_history.json queries.json
           git diff --staged --quiet || git commit -m "chore: update seen_jobs and run_history [skip ci]"
           git push

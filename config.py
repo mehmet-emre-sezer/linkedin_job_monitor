@@ -17,7 +17,7 @@ SCORE_THRESHOLD = int(os.getenv("SCORE_THRESHOLD", "70"))
 SEARCH_LOCATION = "Istanbul, Turkey"
 
 # How many jobs to process per query per run
-JOBS_PER_QUERY = 5
+JOBS_PER_QUERY = 15
 
 SEEN_JOBS_FILE = "seen_jobs.json"
 
