@@ -287,5 +287,178 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-22T19:00:21.668704",
+    "queries": [
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\" OR \"Graduate\" OR \"New Grad\") AND (\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\" OR \"Software Engineer\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": [
+          {
+            "title": "Software Engineer - SDK",
+            "company": "Grand Games",
+            "score": 60,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Analysis\" OR \"Machine Learning\" OR \"Deep Learning\") AND (\"Software Development\" OR \"Technical Support\") AND (Python OR Java OR SQL)",
+        "jobs": [
+          {
+            "title": "Software Engineer - SDK",
+            "company": "Grand Games",
+            "score": 60,
+            "sent": false
+          },
+          {
+            "title": "Vehicle Diagnostics Software Engineer",
+            "company": "Ford Otosan",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Kıdemli Veri Bilimi Uzmanı",
+            "company": "Hepiyi Sigorta",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Analyst",
+            "company": "Turknet",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior IT Consultant (Data Science Focus) - Istanbul | BCG Platinion",
+            "company": "Boston Consulting Group (BCG)",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Product Analyst, OX",
+            "company": "Fundraise Up",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Product Analyst, Donor Portal",
+            "company": "Fundraise Up",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Scientist – AI Development",
+            "company": "ING Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Scientist- CRM - Product & Channel Analytics",
+            "company": "ING Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Early Talent Program / Information Technologies",
+            "company": "PepsiCo",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Sigorta Teknolojileri - Yazılım Uzmanı / Mimarı",
+            "company": "Akbank",
+            "score": 60,
+            "sent": false
+          },
+          {
+            "title": "Kıdemli İş Zekası Uzmanı",
+            "company": "Hepiyi Sigorta",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "İş Zekası Uzmanı",
+            "company": "Florence Nightingale Hospital",
+            "score": 60,
+            "sent": false
+          },
+          {
+            "title": "Early Talent Program / Revenue Growth Management",
+            "company": "PepsiCo",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Junior Data Scientist\" OR \"Entry Level Machine Learning Engineer\" OR \"Graduate AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": [
+          {
+            "title": "Software Engineer - SDK",
+            "company": "Grand Games",
+            "score": 60,
+            "sent": false
+          },
+          {
+            "title": "Game Developer - New Grad",
+            "company": "Vertigo Games",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Junior Gömülü Sistemler Mühendisi",
+            "company": "Metadiag Automotive Technologies",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Entry Level\" OR \"Junior\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Full Stack Developer\" OR \"Frontend Developer\" OR \"Backend Developer\") AND (React OR Node.js OR Python OR Django OR \"REST API\")",
+        "jobs": [
+          {
+            "title": "Software Engineer - SDK",
+            "company": "Grand Games",
+            "score": 60,
+            "sent": false
+          },
+          {
+            "title": "Game Developer - New Grad",
+            "company": "Vertigo Games",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Junior Gömülü Sistemler Mühendisi",
+            "company": "Metadiag Automotive Technologies",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Yazılım Mühendisi",
+            "company": "VMGMEDYA",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Software Engineer - Backend",
+            "company": "Grand Games",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Mid-Level Front-end Developer",
+            "company": "Blue Palm Operational",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
