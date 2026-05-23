@@ -460,5 +460,51 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-23T09:06:14.114098",
+    "queries": [
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\" OR \"Graduate\" OR \"New Grad\") AND (\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\" OR \"Software Engineer\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": [
+          {
+            "title": "Lead Frontend Software Engineer",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Analysis\" OR \"Machine Learning\" OR \"Deep Learning\") AND (\"Software Development\" OR \"Technical Support\") AND (Python OR Java OR SQL)",
+        "jobs": [
+          {
+            "title": "Lead Frontend Software Engineer",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Junior Data Scientist\" OR \"Entry Level Machine Learning Engineer\" OR \"Graduate AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Entry Level\" OR \"Junior\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Lead Frontend Software Engineer",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Full Stack Developer\" OR \"Frontend Developer\" OR \"Backend Developer\") AND (React OR Node.js OR Python OR Django OR \"REST API\")",
+        "jobs": []
+      }
+    ]
   }
 ]
