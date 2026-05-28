@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-05-28T11:00:38.467324",
+    "queries": [
+      {
+        "query": "(\"Junior Data Scientist\" OR \"Entry Level Machine Learning Engineer\" OR \"Graduate\") AND (Python OR Java OR \"Data Analysis\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Entry Level\" OR \"Junior\" OR \"Intern\") AND (\"Full Stack Developer\" OR \"Frontend Developer\" OR \"Backend Developer\") AND (React OR Node.js OR Python OR Django OR \"REST API\")",
+        "jobs": [
+          {
+            "title": "Remote Fullstack Engineer",
+            "company": "Turing",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Remote Fullstack Engineer",
+            "company": "Turing",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Senior ML-Engineer",
+            "company": "Fundraise Up",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": []
+      }
+    ]
+  }
+]
