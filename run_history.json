@@ -319,5 +319,51 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-30T18:05:27.733179",
+    "queries": [
+      {
+        "query": "(\"Junior Data Scientist\" OR \"Entry Level Machine Learning Engineer\" OR \"Graduate\") AND (Python OR Java OR \"Data Analysis\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": [
+          {
+            "title": "Senior Frontend Developer",
+            "company": "Acronis",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Entry Level\" OR \"Junior\" OR \"Intern\") AND (\"Full Stack Developer\" OR \"Frontend Developer\" OR \"Backend Developer\") AND (React OR Node.js OR Python OR Django OR \"REST API\")",
+        "jobs": [
+          {
+            "title": "Senior Frontend Developer",
+            "company": "Acronis",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": [
+          {
+            "title": "Senior Frontend Developer",
+            "company": "Acronis",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
