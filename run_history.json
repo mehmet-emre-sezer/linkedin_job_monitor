@@ -120,5 +120,166 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-01T17:41:19.324960",
+    "queries": [
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "Bigger Games",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Agentic AI Engineer",
+            "company": "ING Hubs Türkiye",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Data & Analytics Consultant",
+            "company": "Neowise",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "Bigger Games",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Agentic AI Engineer",
+            "company": "ING Hubs Türkiye",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Deep Learning Engineer - Robotics, Computer Vision",
+            "company": "OneSec",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Developer",
+            "company": "Agito Software & Consulting",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Lead AI Engineer",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Scientist",
+            "company": "bitaksi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Principle Agentic AI Engineer",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Scientist",
+            "company": "Pentanom Talent",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Analytic Learning Algorithm Research",
+            "company": "Jobgether",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Chapter Lead AI/LLM Data Scientist in Agentic AI",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Entry Level\" OR \"Junior\" OR \"Intern\") AND (\"Full Stack Developer\" OR \"Frontend Developer\" OR \"Backend Developer\") AND (React OR Node.js OR Python OR Django OR \"REST API\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "Bigger Games",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Agentic AI Engineer",
+            "company": "ING Hubs Türkiye",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Data & Analytics Consultant",
+            "company": "Neowise",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Data Visualization\" OR \"Statistical Modeling\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "Bigger Games",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Deep Learning Engineer - Robotics, Computer Vision",
+            "company": "OneSec",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Developer",
+            "company": "Agito Software & Consulting",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior Data Scientist",
+            "company": "bitaksi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Scientist",
+            "company": "Pentanom Talent",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Scientist",
+            "company": "MSC Mediterranean Shipping Company",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
