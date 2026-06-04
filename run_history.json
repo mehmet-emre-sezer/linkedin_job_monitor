@@ -37,5 +37,63 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-04T10:42:02.407128",
+    "queries": [
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": [
+          {
+            "title": "Data Analytics Assistant Specialist",
+            "company": "Škoda Türkiye",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Assistant Consumer Insight & Data Analyst",
+            "company": "ZÜBER",
+            "score": 60,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Data Visualization\" OR \"Statistical Modeling\" OR \"Deep Learning\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Entry Level\" OR \"Junior\" OR \"Intern\") AND (\"Full Stack Developer\" OR \"Frontend Developer\" OR \"Backend Developer\") AND (React OR Node.js OR Python OR Django OR \"REST API\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": [
+          {
+            "title": "Data Analytics Assistant Specialist",
+            "company": "Škoda Türkiye",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Assistant Consumer Insight & Data Analyst",
+            "company": "ZÜBER",
+            "score": 60,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "ICTWORKS Bilişim ve Yazılım A.Ş.",
+            "score": 85,
+            "sent": true
+          }
+        ]
+      }
+    ]
   }
 ]
