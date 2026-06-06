@@ -385,5 +385,100 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-06T13:43:59.453229",
+    "queries": [
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": [
+          {
+            "title": "New Grad Engineering Hackathon",
+            "company": "Cherry",
+            "score": 90,
+            "sent": true
+          },
+          {
+            "title": "Junior DevOps Engineer",
+            "company": "Hitit",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Data Visualization\" OR \"Statistical Modeling\" OR \"Deep Learning\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Entry Level\" OR \"Junior\" OR \"Intern\") AND (\"Full Stack Developer\" OR \"Frontend Developer\" OR \"Backend Developer\") AND (React OR Node.js OR Python OR Django OR \"REST API\")",
+        "jobs": [
+          {
+            "title": "New Grad Engineering Hackathon",
+            "company": "Cherry",
+            "score": 90,
+            "sent": true
+          },
+          {
+            "title": "Junior DevOps Engineer",
+            "company": "Hitit",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Software Engineer",
+            "company": "Cherry",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Full Stack Developer | Part-Time / Full-Time",
+            "company": "LoopersClub",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Java Developer",
+            "company": "Kartaca",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": [
+          {
+            "title": "New Grad Engineering Hackathon",
+            "company": "Cherry",
+            "score": 90,
+            "sent": true
+          },
+          {
+            "title": "Junior DevOps Engineer",
+            "company": "Hitit",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Senior/Staff AI Engineer",
+            "company": "OREDATA",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Internet of Things and Industrial Engineer",
+            "company": "NuManufacturing IoT & AI Technologies AS",
+            "score": 85,
+            "sent": true
+          }
+        ]
+      }
+    ]
   }
 ]
