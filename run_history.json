@@ -158,5 +158,62 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-08T15:52:23.595081",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Data Visualization\" OR \"Statistical Modeling\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Senior AI Engineer",
+            "company": "Stellantis Middle East & Africa",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Business Analyst 'NLP'",
+            "company": "Yapı Kredi Teknoloji",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Full Stack AI Engineer",
+            "company": "Jobgether",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Software Engineer 'NLP'",
+            "company": "Yapı Kredi Teknoloji",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Entry Level\" OR \"Junior\" OR \"Intern\") AND (\"Full Stack Developer\" OR \"Frontend Developer\" OR \"Backend Developer\") AND (React OR Node.js OR Python OR Django OR \"REST API\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Data Scientist – Personalization & Search",
+            "company": "LC Waikiki",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
