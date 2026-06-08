@@ -80,5 +80,83 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-08T12:04:40.826564",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Data Visualization\" OR \"Statistical Modeling\")",
+        "jobs": [
+          {
+            "title": "Data Scientist - Model Validator",
+            "company": "ING Türkiye",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": [
+          {
+            "title": "Data Analyst",
+            "company": "Bold Games",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Game Developer - New Grad",
+            "company": "Vertigo Games",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Data Scientist - Model Validator",
+            "company": "ING Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "R&D Engineer 'NLP'",
+            "company": "",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Entry Level\" OR \"Junior\" OR \"Intern\") AND (\"Full Stack Developer\" OR \"Frontend Developer\" OR \"Backend Developer\") AND (React OR Node.js OR Python OR Django OR \"REST API\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": [
+          {
+            "title": "Game Developer - New Grad",
+            "company": "Vertigo Games",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Data Scientist - Model Validator",
+            "company": "ING Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "R&D Engineer 'NLP'",
+            "company": "",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
