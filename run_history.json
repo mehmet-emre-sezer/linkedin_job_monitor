@@ -372,5 +372,58 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-09T19:20:13.099724",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Data Visualization\" OR \"Statistical Modeling\")",
+        "jobs": [
+          {
+            "title": "Yapay Zeka Mühendisi – Computer Vision, OCR & RAG",
+            "company": "",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": [
+          {
+            "title": "Uzun Dönem AI Mühendisliği Stajyeri",
+            "company": "Fabrikod",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Yapay Zeka Mühendisi – Computer Vision, OCR & RAG",
+            "company": "",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Entry Level\" OR \"Junior\" OR \"Intern\") AND (\"Full Stack Developer\" OR \"Frontend Developer\" OR \"Backend Developer\") AND (React OR Node.js OR Python OR Django OR \"REST API\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Yapay Zeka Mühendisi – Computer Vision, OCR & RAG",
+            "company": "",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
