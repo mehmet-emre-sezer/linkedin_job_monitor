@@ -55,5 +55,101 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-11T11:27:24.354063",
+    "queries": [
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Data Visualization\" OR \"Statistical Modeling\" OR \"Computer Vision\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "arabam.com",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Science Team Lead",
+            "company": "",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Deep Learning\" OR \"Natural Language Processing\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "arabam.com",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Science Team Lead",
+            "company": "",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Team Collaboration\" OR \"Problem Solving\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "arabam.com",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Science Team Lead",
+            "company": "",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Junior Marketing Artist (AI-Driven)",
+            "company": "",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "arabam.com",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Science Team Lead",
+            "company": "",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Statistical Modeling\" OR \"Data Visualization\" OR \"Machine Learning\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "arabam.com",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Science Team Lead",
+            "company": "",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
