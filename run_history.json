@@ -36,5 +36,71 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-14T10:29:16.186045",
+    "queries": [
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Data Visualization\" OR \"Statistical Modeling\")",
+        "jobs": [
+          {
+            "title": "Algoritma Mühendisi/RF",
+            "company": "TAY Yazılım Teknolojileri A.Ş.",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Algoritma Mühendisi/RF",
+            "company": "TAY Yazılım Teknolojileri A.Ş.",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": [
+          {
+            "title": "Algoritma Mühendisi/RF",
+            "company": "TAY Yazılım Teknolojileri A.Ş.",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Siber Güvenlik Analisti",
+            "company": "Talentra",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Algoritma Mühendisi/RF",
+            "company": "TAY Yazılım Teknolojileri A.Ş.",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "Algoritma Mühendisi/RF",
+            "company": "TAY Yazılım Teknolojileri A.Ş.",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      }
+    ]
   }
 ]
