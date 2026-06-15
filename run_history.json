@@ -152,5 +152,76 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-15T13:22:11.322201",
+    "queries": [
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Data Visualization\" OR \"Statistical Modeling\")",
+        "jobs": [
+          {
+            "title": "Quantitative Finance and Risk Metrics Manager / Assistant Manager",
+            "company": "BNP Paribas",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Quantitative Finance and Risk Metrics Manager / Assistant Manager",
+            "company": "TEB",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Argela Technologies",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": [
+          {
+            "title": "Software Engineer (AI Training)",
+            "company": "Alignerr",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Artificial Intelligence Project Intern",
+            "company": "Gürok Grup",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Artificial Intelligence Project Intern",
+            "company": "Gürok Grup",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Robotics Engineer",
+            "company": "Monitize AI",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": []
+      }
+    ]
   }
 ]
