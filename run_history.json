@@ -280,5 +280,68 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-16T12:16:32.721268",
+    "queries": [
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Data Visualization\" OR \"Statistical Modeling\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": [
+          {
+            "title": "Junior Software Engineer",
+            "company": "Leus",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "B1 Licensed Aircraft Engineer",
+            "company": "TSMG Holding",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior SAP Developer (ABAP/UI5)",
+            "company": "Accenture",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "B1 Licensed Aircraft Engineer",
+            "company": "TSMG Holding",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Researcher III – Mathematical Optimization for Energy Systems",
+            "company": "National Laboratory of the Rockies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Cyber Security Specialist",
+            "company": "Executas HR and Business Solutions",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": []
+      }
+    ]
   }
 ]
