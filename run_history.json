@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "timestamp": "2026-06-17T11:54:28.470911",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": [
+          {
+            "title": "Junior Team Lead - EMEA market",
+            "company": "TSMG Holding",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Associate Data Analytics Consultant - New Graduate (Entry Level)",
+            "company": "SnA Consulting",
+            "score": 92,
+            "sent": true
+          },
+          {
+            "title": "Associate Data & AI Engineering Consultant - New Graduate (Entry Level)",
+            "company": "SnA Consulting",
+            "score": 92,
+            "sent": true
+          },
+          {
+            "title": "Senior Java Software Engineer",
+            "company": "Veridion Teknoloji",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "Armut / HomeRun",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": []
+      }
+    ]
+  }
+]
