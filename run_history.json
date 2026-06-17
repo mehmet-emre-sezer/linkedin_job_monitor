@@ -94,5 +94,203 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-17T19:33:16.572696",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "AI Mühendisi",
+            "company": "Koç University",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Senior Machine Learning Engineer",
+            "company": "One Eye Systems LC.",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Veri Bilimcisi",
+            "company": "Koçtaş",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Forward Deployed AI Engineer",
+            "company": "arabam.com",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Backend Engineer",
+            "company": "Apilex",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Yapay Zeka Çözümleri Uzmanı",
+            "company": "Inka",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": [
+          {
+            "title": "AI Mühendisi",
+            "company": "Koç University",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Senior Machine Learning Engineer",
+            "company": "One Eye Systems LC.",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Veri Bilimcisi",
+            "company": "Koçtaş",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Forward Deployed AI Engineer",
+            "company": "arabam.com",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Backend Engineer",
+            "company": "Apilex",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Marketing Analyst",
+            "company": "Scorp",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "AI Mühendisi",
+            "company": "Koç University",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Senior Machine Learning Engineer",
+            "company": "One Eye Systems LC.",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Veri Bilimcisi",
+            "company": "Koçtaş",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Marketing Analyst",
+            "company": "Scorp",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "AI Mühendisi",
+            "company": "Koç University",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Senior Machine Learning Engineer",
+            "company": "One Eye Systems LC.",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Veri Bilimcisi",
+            "company": "Koçtaş",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Forward Deployed AI Engineer",
+            "company": "arabam.com",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Backend Engineer",
+            "company": "Apilex",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Yapay Zeka Çözümleri Uzmanı",
+            "company": "Inka",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "AI Mühendisi",
+            "company": "Koç University",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Senior Machine Learning Engineer",
+            "company": "One Eye Systems LC.",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Veri Bilimcisi",
+            "company": "Koçtaş",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Forward Deployed AI Engineer",
+            "company": "arabam.com",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Backend Engineer",
+            "company": "Apilex",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Yapay Zeka Çözümleri Uzmanı",
+            "company": "Inka",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
