@@ -292,5 +292,30 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-18T11:12:07.794563",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": []
+      }
+    ]
   }
 ]
