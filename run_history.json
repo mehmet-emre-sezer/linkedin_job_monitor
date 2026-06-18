@@ -355,5 +355,95 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-18T19:34:15.252197",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "AI / NLP Engineer",
+            "company": "Platin Ajans",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Applied AI Engineer",
+            "company": "Apilex",
+            "score": 0,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": [
+          {
+            "title": "AI / NLP Engineer",
+            "company": "Platin Ajans",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Applied AI Engineer",
+            "company": "Apilex",
+            "score": 0,
+            "sent": false
+          },
+          {
+            "title": "Junior AI Business Consultant",
+            "company": "MindWorks",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "AI / NLP Engineer",
+            "company": "Platin Ajans",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "AI / NLP Engineer",
+            "company": "Platin Ajans",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Applied AI Engineer",
+            "company": "Apilex",
+            "score": 0,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "AI / NLP Engineer",
+            "company": "Platin Ajans",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Applied AI Engineer",
+            "company": "Apilex",
+            "score": 0,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
