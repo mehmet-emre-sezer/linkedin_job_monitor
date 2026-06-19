@@ -536,5 +536,269 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-19T19:04:53.874684",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Nobel Ilac A.S",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Full Stack / AI Engineer",
+            "company": "AdCubes",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Lead/Senior Agentic AI Systems Engineer",
+            "company": "Randstad Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI & Data Governance Lead",
+            "company": "Amerikan Hastanesi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Science Manager",
+            "company": "n11",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Postdoctoral Researcher in AI-Driven Cancer Drug Discovery",
+            "company": "Boğaziçi University",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Engineer",
+            "company": "ChargeSquare",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Backend Developer",
+            "company": "Lokalde",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Artificial Intelligence Engineer",
+            "company": "Bluesense",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Nobel Ilac A.S",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Full Stack / AI Engineer",
+            "company": "AdCubes",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Science Manager",
+            "company": "n11",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Engineer",
+            "company": "ChargeSquare",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Artificial Intelligence Engineer",
+            "company": "Bluesense",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Reporting & Analysis Assistant Specialist",
+            "company": "n11",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Junior Frontend & Product Developer",
+            "company": "ChargeSquare",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Product Designer - AI Apps Studio",
+            "company": "AppNation",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Junior Power Trader for Eastern European Power Trading",
+            "company": "MFT Energy",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Pricing Data Analyst",
+            "company": "Trendyol Group",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Nobel Ilac A.S",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Science Manager",
+            "company": "n11",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Nobel Ilac A.S",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Full Stack / AI Engineer",
+            "company": "AdCubes",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Lead/Senior Agentic AI Systems Engineer",
+            "company": "Randstad Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI & Data Governance Lead",
+            "company": "Amerikan Hastanesi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Science Manager",
+            "company": "n11",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Postdoctoral Researcher in AI-Driven Cancer Drug Discovery",
+            "company": "Boğaziçi University",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Engineer",
+            "company": "ChargeSquare",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Backend Developer",
+            "company": "Lokalde",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Artificial Intelligence Engineer",
+            "company": "Bluesense",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Nobel Ilac A.S",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Full Stack / AI Engineer",
+            "company": "AdCubes",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Lead/Senior Agentic AI Systems Engineer",
+            "company": "Randstad Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI & Data Governance Lead",
+            "company": "Amerikan Hastanesi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Science Manager",
+            "company": "n11",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Postdoctoral Researcher in AI-Driven Cancer Drug Discovery",
+            "company": "Boğaziçi University",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Engineer",
+            "company": "ChargeSquare",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Backend Developer",
+            "company": "Lokalde",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Artificial Intelligence Engineer",
+            "company": "Bluesense",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      }
+    ]
   }
 ]
