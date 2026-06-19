@@ -445,5 +445,64 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-19T11:28:07.023763",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\")",
+        "jobs": [
+          {
+            "title": "B2 Licensed Aircraft Engineer",
+            "company": "TSMG Holding",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior EWM ABAP Developer",
+            "company": "Accenture",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "Data Scientist Executive",
+            "company": "Abdi Ibrahim Pharmaceuticals",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java OR \"Data Analysis\") AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Senior AI Security Engineer / AI Security Architect (GenAI & Cybersecurity)",
+            "company": "Treomind",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java OR \"Data Analysis\") AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Senior Specialist, Generative AI & LLM",
+            "company": "Etiya",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
