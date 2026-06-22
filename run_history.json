@@ -239,5 +239,37 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-22T16:57:43.473186",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java)",
+        "jobs": [
+          {
+            "title": "Remote Full-Stack Developer",
+            "company": "Turing",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": []
+      }
+    ]
   }
 ]
