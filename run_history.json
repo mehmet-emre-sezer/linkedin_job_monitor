@@ -151,5 +151,93 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-22T12:55:29.273728",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java)",
+        "jobs": [
+          {
+            "title": "Remote Full-Stack Developer",
+            "company": "Turing",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Remote Full-Stack Developer",
+            "company": "Turing",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Remote Full-Stack Developer",
+            "company": "Turing",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Remote Full-Stack Developer",
+            "company": "Turing",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Remote Full-Stack Developer",
+            "company": "Turing",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Remote Full-Stack Developer",
+            "company": "Turing",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Remote Full-Stack Developer",
+            "company": "Turing",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Remote Full-Stack Developer",
+            "company": "Turing",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "Head of AI",
+            "company": "Skyloop",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Head of AI",
+            "company": "Skyloop",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
