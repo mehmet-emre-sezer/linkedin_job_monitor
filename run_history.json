@@ -296,5 +296,65 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-23T10:43:12.102485",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Senior Computer Vision Engineer",
+            "company": "Syntonym",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Junior\" OR \"Entry Level\" OR \"Intern\") AND (\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java)",
+        "jobs": [
+          {
+            "title": "Game Developer - New Grad",
+            "company": "Vertigo Games",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "Senior Computer Vision Engineer",
+            "company": "Syntonym",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Senior Computer Vision Engineer",
+            "company": "Syntonym",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Senior Computer Vision Engineer",
+            "company": "Syntonym",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
