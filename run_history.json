@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "timestamp": "2026-06-23T19:11:40.590070",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Advanced Analytics & Data Science Manager",
+            "company": "Odeabank",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Director of Artificial Intelligence",
+            "company": "Sinecera Studio",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Yazılım Mühendisliği Stajyeri",
+            "company": "Makrops",
+            "score": 85,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Machine Learning\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Advanced Analytics & Data Science Manager",
+            "company": "Odeabank",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Engineer - R&D",
+            "company": "Beko Corporate",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Back End Developer (AI Infrastructure)",
+            "company": "Alignerr",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      }
+    ]
+  }
+]
