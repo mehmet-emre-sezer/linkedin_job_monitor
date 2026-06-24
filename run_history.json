@@ -61,5 +61,82 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-24T10:27:18.164806",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Senior Data Scientist / AI Engineer",
+            "company": "Softtech",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Senior Data Scientist / AI Engineer",
+            "company": "Softtech",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Process Improvement Associate",
+            "company": "TruKKer",
+            "score": 90,
+            "sent": true
+          },
+          {
+            "title": "Graduate (Year-Round) Internship – Digital Twin Development for Biorefinery Processes",
+            "company": "National Laboratory of the Rockies",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Senior Data Scientist / AI Engineer",
+            "company": "Softtech",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Machine Learning\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Senior Data Scientist / AI Engineer",
+            "company": "Softtech",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Process Improvement Associate",
+            "company": "TruKKer",
+            "score": 90,
+            "sent": true
+          },
+          {
+            "title": "Graduate (Year-Round) Internship – Digital Twin Development for Biorefinery Processes",
+            "company": "National Laboratory of the Rockies",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      }
+    ]
   }
 ]
