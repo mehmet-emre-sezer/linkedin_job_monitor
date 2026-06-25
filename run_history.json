@@ -255,5 +255,82 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-25T14:33:14.711785",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Machine Learning Engineer",
+            "company": "Cimri",
+            "score": 0,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "QA Automation Engineer - Fully Remote, Turkey Based",
+            "company": "Appier",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": ".NET Backend Developer Intern (C# / ASP.NET Core) - Compulsory Internship",
+            "company": "",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Machine Learning Engineer",
+            "company": "Cimri",
+            "score": 0,
+            "sent": false
+          },
+          {
+            "title": ".NET Backend Developer Intern (C# / ASP.NET Core) - Compulsory Internship",
+            "company": "",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Machine Learning\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Machine Learning Engineer",
+            "company": "Cimri",
+            "score": 0,
+            "sent": false
+          },
+          {
+            "title": "QA Automation Engineer - Fully Remote, Turkey Based",
+            "company": "Appier",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": ".NET Backend Developer Intern (C# / ASP.NET Core) - Compulsory Internship",
+            "company": "",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
