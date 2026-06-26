@@ -461,5 +461,50 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-26T14:24:34.502930",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Artificial Intelligence Engineer",
+            "company": "GİZLİ",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Dijital Pazarlama Stajyeri",
+            "company": "Makrops",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Machine Learning\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "C++ Developer - Remote",
+            "company": "YO IT Consulting",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
