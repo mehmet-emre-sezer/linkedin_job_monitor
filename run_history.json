@@ -371,5 +371,95 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-26T10:29:16.795997",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "OREDATA",
+            "score": 0,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zekâ (AI) Yazılım Uzmanı",
+            "company": "Tiryaki Agro",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "OREDATA",
+            "score": 0,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zekâ (AI) Yazılım Uzmanı",
+            "company": "Tiryaki Agro",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "OREDATA",
+            "score": 0,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zekâ (AI) Yazılım Uzmanı",
+            "company": "Tiryaki Agro",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "OREDATA",
+            "score": 0,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zekâ (AI) Yazılım Uzmanı",
+            "company": "Tiryaki Agro",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Machine Learning\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "OREDATA",
+            "score": 0,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zekâ (AI) Yazılım Uzmanı",
+            "company": "Tiryaki Agro",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
