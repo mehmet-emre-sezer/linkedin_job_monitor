@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "timestamp": "2026-06-27T09:32:55.800641",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Senior Full-Stack Engineer",
+            "company": "Hopi",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Machine Learning\" OR \"Data Science\")",
+        "jobs": [
+          {
+            "title": "Senior Full-Stack Engineer",
+            "company": "Hopi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Risk Strategy Analyst II",
+            "company": "Uber",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Head of Planning",
+            "company": "Getir",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": ".NET Engineer - Remote",
+            "company": "YO IT Consulting",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
+  }
+]
