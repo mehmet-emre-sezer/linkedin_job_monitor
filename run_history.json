@@ -175,5 +175,65 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-28T18:07:50.483469",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Generative AI Engineer",
+            "company": "Booked AI",
+            "score": 0,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Generative AI Engineer",
+            "company": "Booked AI",
+            "score": 0,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Generative AI Engineer",
+            "company": "Booked AI",
+            "score": 0,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "Generative AI Engineer",
+            "company": "Booked AI",
+            "score": 0,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Machine Learning\" OR \"Data Science\")",
+        "jobs": [
+          {
+            "title": "Generative AI Engineer",
+            "company": "Booked AI",
+            "score": 0,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
