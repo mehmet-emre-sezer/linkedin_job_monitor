@@ -299,5 +299,347 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-29T15:51:59.140629",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "AI & LLM Engineer",
+            "company": "Wingie Enuygun Group",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Yazılım Mühendisi (Bilgisayarla Görme)",
+            "company": "Ekol Logistics",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Technical Team Lead, LearnWith.AI (Remote) - $200,000/year USD",
+            "company": "Crossover",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Full Stack Developer",
+            "company": "Accenture",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Full Stack Developer",
+            "company": "Accenture",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "AI & LLM Engineer",
+            "company": "Wingie Enuygun Group",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Yazılım Mühendisi (Bilgisayarla Görme)",
+            "company": "Ekol Logistics",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Technical Team Lead, LearnWith.AI (Remote) - $200,000/year USD",
+            "company": "Crossover",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Full Stack Developer",
+            "company": "Accenture",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Full Stack Developer",
+            "company": "Accenture",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior Analyst / Consultant",
+            "company": "Linktera",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI QA Engineer",
+            "company": "Wingie Enuygun Group",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Business Solutions Consultant",
+            "company": "SESTEK",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Analyst",
+            "company": "Foundever",
+            "score": 88,
+            "sent": true
+          },
+          {
+            "title": "Data Warehouse Modeler Analyst (Hybrid)",
+            "company": "Intertech Information Technology and Marketing Inc.",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Software Engineer (Full Stack)-İstanbul",
+            "company": "PROFEN",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "AI & LLM Engineer",
+            "company": "Wingie Enuygun Group",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Yazılım Mühendisi (Bilgisayarla Görme)",
+            "company": "Ekol Logistics",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Technical Team Lead, LearnWith.AI (Remote) - $200,000/year USD",
+            "company": "Crossover",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Full Stack Developer",
+            "company": "Accenture",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Full Stack Developer",
+            "company": "Accenture",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior Analyst / Consultant",
+            "company": "Linktera",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI QA Engineer",
+            "company": "Wingie Enuygun Group",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Business Solutions Consultant",
+            "company": "SESTEK",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Process Engineer",
+            "company": "Wingie Enuygun Group",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Digital HR Solutions Manager",
+            "company": "SabancıDx",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "LinkedIn Growth - Automation Intern",
+            "company": "Konuşarak Öğren",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "KOBİ ve Bireysel Krediler Ürün Geliştirme Yönetmeni",
+            "company": "ColendiBank",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "AI & LLM Engineer",
+            "company": "Wingie Enuygun Group",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Yazılım Mühendisi (Bilgisayarla Görme)",
+            "company": "Ekol Logistics",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Technical Team Lead, LearnWith.AI (Remote) - $200,000/year USD",
+            "company": "Crossover",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Full Stack Developer",
+            "company": "Accenture",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Full Stack Developer",
+            "company": "Accenture",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior Analyst / Consultant",
+            "company": "Linktera",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Analyst",
+            "company": "Foundever",
+            "score": 88,
+            "sent": true
+          },
+          {
+            "title": "Data Warehouse Modeler Analyst (Hybrid)",
+            "company": "Intertech Information Technology and Marketing Inc.",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "İş Analitikleri Danışmanı (Power BI)",
+            "company": "Calik Holding",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Kıdemli İş Analitikleri Danışmanı (BPC-BW)",
+            "company": "Calik Holding",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Backend Developer (Python/Django)",
+            "company": "Bitexen",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "E-Ticaret Ekip Lideri",
+            "company": "Rossmann Türkiye",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Machine Learning\" OR \"Data Science\")",
+        "jobs": [
+          {
+            "title": "AI & LLM Engineer",
+            "company": "Wingie Enuygun Group",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Yazılım Mühendisi (Bilgisayarla Görme)",
+            "company": "Ekol Logistics",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Technical Team Lead, LearnWith.AI (Remote) - $200,000/year USD",
+            "company": "Crossover",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Full Stack Developer",
+            "company": "Accenture",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Full Stack Developer",
+            "company": "Accenture",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior Analyst / Consultant",
+            "company": "Linktera",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI QA Engineer",
+            "company": "Wingie Enuygun Group",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Business Solutions Consultant",
+            "company": "SESTEK",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Analyst",
+            "company": "Foundever",
+            "score": 88,
+            "sent": true
+          },
+          {
+            "title": "Data Warehouse Modeler Analyst (Hybrid)",
+            "company": "Intertech Information Technology and Marketing Inc.",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Software Engineer (Full Stack)-İstanbul",
+            "company": "PROFEN",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "İş Analitikleri Danışmanı (Power BI)",
+            "company": "Calik Holding",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
