@@ -235,5 +235,69 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-29T12:03:57.466230",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Software Architect (Backend - Digital Banking)",
+            "company": "Commencis",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "Senior Data Scientist",
+            "company": "MSC Mediterranean Shipping Company",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Machine Learning\" OR \"Data Science\")",
+        "jobs": [
+          {
+            "title": "Senior Data Scientist",
+            "company": "MSC Mediterranean Shipping Company",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Business Analyst",
+            "company": "Crs Soft",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Software Engineer",
+            "company": "Vega Networks",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "SAP ABAP / FIORI Consultant",
+            "company": "Deloitte",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
