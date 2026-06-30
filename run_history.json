@@ -1,1 +1,170 @@
-[]
+[
+  {
+    "timestamp": "2026-06-30T14:20:20.293228",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Backend Engineer",
+            "company": "Apilex",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Geospatial Data Scientist",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Backend Engineer",
+            "company": "Apilex",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Geospatial Data Scientist",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Gameplay Programmer",
+            "company": "ELYZIO",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Backend Engineer",
+            "company": "Apilex",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Geospatial Data Scientist",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Gameplay Programmer",
+            "company": "ELYZIO",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Software Engineer",
+            "company": "Apollo",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "JAVA DEVELOPER (eSIM/SIM)",
+            "company": "Turkcell",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "Senior Geospatial Data Scientist",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Analyst",
+            "company": "Migros One",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Kurumsal Veri Analitiği Uzmanı",
+            "company": "Hisar School",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Analyst",
+            "company": "Mackolik",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\")",
+        "jobs": [
+          {
+            "title": "Backend Engineer",
+            "company": "Apilex",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Geospatial Data Scientist",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Analyst",
+            "company": "Migros One",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Kurumsal Veri Analitiği Uzmanı",
+            "company": "Hisar School",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Analyst",
+            "company": "Mackolik",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Junior Quantitative Trader",
+            "company": "Paragon Trading",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Analytical Consultant, Large Customer Sales (English, Turkish)",
+            "company": "Google",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Customer Analysis Specialist",
+            "company": "Toyota Türkiye Pazarlama ve Satış A.Ş.",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Solutions Analyst II",
+            "company": "JPMorganChase",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      }
+    ]
+  }
+]
