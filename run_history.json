@@ -212,5 +212,65 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-01T10:51:30.068428",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Senior LLM/LLMOps Data Scientist",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Senior LLM/LLMOps Data Scientist",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Senior LLM/LLMOps Data Scientist",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "Senior LLM/LLMOps Data Scientist",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\")",
+        "jobs": [
+          {
+            "title": "Senior LLM/LLMOps Data Scientist",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
