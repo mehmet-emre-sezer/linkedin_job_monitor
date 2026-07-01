@@ -272,5 +272,116 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-01T14:35:52.240765",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Field Team Leader",
+            "company": "NielsenIQ",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "P&C Retail Insurance Member",
+            "company": "",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\")",
+        "jobs": [
+          {
+            "title": "P&C Retail Insurance Member",
+            "company": "",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Junior Data Scientist",
+            "company": "QNB Türkiye",
+            "score": 88,
+            "sent": true
+          },
+          {
+            "title": "Senior Data Scientist- CRM - Product & Channel Analytics",
+            "company": "ING Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Engineer",
+            "company": "RedCloud",
+            "score": 50,
+            "sent": false
+          },
+          {
+            "title": "Data & AI Architect",
+            "company": "SabancıDx",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Risk Management Model Validation - Assistant Manager",
+            "company": "QNB Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Customer Analytics Executive",
+            "company": "IMPETUS EXECUTIVE",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Tech Consultant - Istanbul | BCG Platinion",
+            "company": "Boston Consulting Group (BCG)",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Engineer - Production Energy Efficiency",
+            "company": "Beko Corporate",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Security Engineer",
+            "company": "Crs Soft",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior AI Tech Consultant - Istanbul | BCG Platinion",
+            "company": "Boston Consulting Group (BCG)",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Back End Developer (AI Infrastructure)",
+            "company": "Alignerr",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
