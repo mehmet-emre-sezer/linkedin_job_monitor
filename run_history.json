@@ -383,5 +383,161 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-01T19:06:56.214124",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Relay",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "AI Researcher Lead",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Engineer",
+            "company": "bitaksi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Backend Developer",
+            "company": "Mindsite",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Relay",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "AI Researcher Lead",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Backend Developer",
+            "company": "Mindsite",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Medical Scientific Officer",
+            "company": "Hevi AI",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Relay",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "AI Researcher Lead",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Engineer",
+            "company": "bitaksi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Backend Developer",
+            "company": "Mindsite",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior Backend Engineer",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Java Developer",
+            "company": "Soliner",
+            "score": 0,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Relay",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "AI Researcher Lead",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Relay",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "AI Researcher Lead",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Engineer",
+            "company": "bitaksi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Backend Developer",
+            "company": "Mindsite",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Kredi Riski Ve Modelleme Yönetmen/Yönetmen Yardımcısı",
+            "company": "Türkiye Emlak Katılım Bankası",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
