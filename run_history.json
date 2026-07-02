@@ -983,5 +983,56 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-02T18:28:45.666092",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Business Development Senior Specialist/ Executive",
+            "company": "Migros Ticaret",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\")",
+        "jobs": [
+          {
+            "title": "Business Development Senior Specialist/ Executive",
+            "company": "Migros Ticaret",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Business Analyst (Mobile Applications)",
+            "company": "iSoftStone",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Technical BA & BI Developer",
+            "company": "Eminevim",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
