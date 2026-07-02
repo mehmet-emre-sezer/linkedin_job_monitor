@@ -539,5 +539,227 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-02T10:17:53.410462",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "AI Developer",
+            "company": "NativeMinds",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Veri Bilimcisi - Fiyatlama İleri Analitik ve Yapay Zeka Yöneticisi",
+            "company": "Akbank",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Perakende Analitiği Yönetmeni",
+            "company": "DenizBank",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Validation Assistant Manager (Data Scientist)",
+            "company": "TEB",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zeka Görsel ve İçerik Uzmanı",
+            "company": "Vatkalı",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "AI Developer",
+            "company": "NativeMinds",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Veri Bilimcisi - Fiyatlama İleri Analitik ve Yapay Zeka Yöneticisi",
+            "company": "Akbank",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Perakende Analitiği Yönetmeni",
+            "company": "DenizBank",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Validation Assistant Manager (Data Scientist)",
+            "company": "TEB",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zeka Görsel ve İçerik Uzmanı",
+            "company": "Vatkalı",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Chief Technology Officer",
+            "company": "reprai",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "AI Developer",
+            "company": "NativeMinds",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Veri Bilimcisi - Fiyatlama İleri Analitik ve Yapay Zeka Yöneticisi",
+            "company": "Akbank",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Perakende Analitiği Yönetmeni",
+            "company": "DenizBank",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Validation Assistant Manager (Data Scientist)",
+            "company": "TEB",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zeka Görsel ve İçerik Uzmanı",
+            "company": "Vatkalı",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Chief Technology Officer",
+            "company": "reprai",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Research Lead",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Fraud Prevention Analytical Specialist",
+            "company": "IBTECH A.S.",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "Veri Bilimcisi - Fiyatlama İleri Analitik ve Yapay Zeka Yöneticisi",
+            "company": "Akbank",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Perakende Analitiği Yönetmeni",
+            "company": "DenizBank",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Validation Assistant Manager (Data Scientist)",
+            "company": "TEB",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Research Lead",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Analyst (New Grad)",
+            "company": "Paxie Games",
+            "score": 85,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\")",
+        "jobs": [
+          {
+            "title": "AI Developer",
+            "company": "NativeMinds",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Veri Bilimcisi - Fiyatlama İleri Analitik ve Yapay Zeka Yöneticisi",
+            "company": "Akbank",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Perakende Analitiği Yönetmeni",
+            "company": "DenizBank",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Validation Assistant Manager (Data Scientist)",
+            "company": "TEB",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Research Lead",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Fraud Prevention Analytical Specialist",
+            "company": "IBTECH A.S.",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Data Analyst (New Grad)",
+            "company": "Paxie Games",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Junior Quantitative Business Analyst",
+            "company": "Tradeware Teknoloji A.Ş.",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      }
+    ]
   }
 ]
