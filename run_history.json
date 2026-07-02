@@ -761,5 +761,227 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-02T14:04:44.182898",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "Prodigi Solutions Yazılım A.Ş.",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Scientist",
+            "company": "Mars Athletic Club",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Scientist",
+            "company": "AgeSA Hayat ve Emeklilik",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Sr. AI Platform Engineer",
+            "company": "ITSTACK Bilgi Sistemleri",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Engineering Manager",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Analyst",
+            "company": "Paxie Games",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "Prodigi Solutions Yazılım A.Ş.",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Scientist",
+            "company": "Mars Athletic Club",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Scientist",
+            "company": "AgeSA Hayat ve Emeklilik",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Sr. AI Platform Engineer",
+            "company": "ITSTACK Bilgi Sistemleri",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Engineering Manager",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Analyst",
+            "company": "Paxie Games",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Game Developer",
+            "company": "Paxie Games",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Robotic Process Automation Developer- Smart Start",
+            "company": "Bosch Türkiye",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "Prodigi Solutions Yazılım A.Ş.",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Scientist",
+            "company": "Mars Athletic Club",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Scientist",
+            "company": "AgeSA Hayat ve Emeklilik",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Sr. AI Platform Engineer",
+            "company": "ITSTACK Bilgi Sistemleri",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Engineering Manager",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Analyst",
+            "company": "Paxie Games",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Backend Engineer",
+            "company": "Migros One",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "Prodigi Solutions Yazılım A.Ş.",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Scientist",
+            "company": "Mars Athletic Club",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Scientist",
+            "company": "AgeSA Hayat ve Emeklilik",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Data Analyst",
+            "company": "Paxie Games",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "Prodigi Solutions Yazılım A.Ş.",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Scientist",
+            "company": "Mars Athletic Club",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Scientist",
+            "company": "AgeSA Hayat ve Emeklilik",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Sr. AI Platform Engineer",
+            "company": "ITSTACK Bilgi Sistemleri",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Engineering Manager",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Analyst",
+            "company": "Paxie Games",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Business Intelligence Developer",
+            "company": "Prodigi Solutions Yazılım A.Ş.",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      }
+    ]
   }
 ]
