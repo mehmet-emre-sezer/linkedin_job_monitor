@@ -1034,5 +1034,56 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-03T10:10:00.775188",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Generative AI Analyst - Turkish",
+            "company": "Welocalize",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\")",
+        "jobs": [
+          {
+            "title": "Data Analyst Excel - Remote",
+            "company": "YO IT Consulting",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Developer",
+            "company": "Avansas.com",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Automation Lead",
+            "company": "MetLife",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
