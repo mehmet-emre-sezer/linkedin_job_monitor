@@ -238,5 +238,185 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-06T15:33:52.158372",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "Coca-Cola CCI",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Geospatial Data Scientist",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Full-Stack Java & AI Developer",
+            "company": "Koc Finansman A.S.",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "Coca-Cola CCI",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Geospatial Data Scientist",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Full-Stack Java & AI Developer",
+            "company": "Koc Finansman A.S.",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Optical System Engineer",
+            "company": "Kastamonu Entegre",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "Coca-Cola CCI",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Geospatial Data Scientist",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\") AND NOT (\"Junior\" OR \"Intern\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "Coca-Cola CCI",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Geospatial Data Scientist",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Full-Stack Java & AI Developer",
+            "company": "Koc Finansman A.S.",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Field Excellence & DAP Manager",
+            "company": "Novartis",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Product Manager (Consumer Lending Analytics)",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "IT Project Manager",
+            "company": "Nuevo Softwarehouse",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "DevOps Engineer",
+            "company": "Kartaca",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Java Developer",
+            "company": "Turkcell",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Java Developer",
+            "company": "Softtech",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Product Manager",
+            "company": "Mimeda",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Database Engineer - Hepsi Finansal",
+            "company": "Hepsiburada (NASDAQ: HEPS)",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Backend Software Engineering Team Lead (Node.js)",
+            "company": "Machinarium",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Test Mühendisi",
+            "company": "Amerikan Hastanesi",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Data Scientist",
+            "company": "Coca-Cola CCI",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Geospatial Data Scientist",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Full-Stack Java & AI Developer",
+            "company": "Koc Finansman A.S.",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
