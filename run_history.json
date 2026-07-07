@@ -68,5 +68,147 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-07T19:07:25.825444",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Veri Mühendisi",
+            "company": "Yapı Kredi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI & Platform Engineering Manager",
+            "company": "Zorlu Holding",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Görsel Üretim Sorumlusu",
+            "company": "Vakko",
+            "score": 0,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Veri Mühendisi",
+            "company": "Yapı Kredi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI & Platform Engineering Manager",
+            "company": "Zorlu Holding",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Görsel Üretim Sorumlusu",
+            "company": "Vakko",
+            "score": 0,
+            "sent": false
+          },
+          {
+            "title": "AI Videographer",
+            "company": "Replace Works",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\") AND NOT (\"Junior\" OR \"Intern\")",
+        "jobs": [
+          {
+            "title": "Veri Mühendisi",
+            "company": "Yapı Kredi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI & Platform Engineering Manager",
+            "company": "Zorlu Holding",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Görsel Üretim Sorumlusu",
+            "company": "Vakko",
+            "score": 0,
+            "sent": false
+          },
+          {
+            "title": "CRM & Data Analytics Specialist",
+            "company": "TEB",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Product Manager/ Data & AI Team (E-commerce)",
+            "company": "BİM Birleşik Mağazalar A.Ş",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "İş Zekası Uzmanı",
+            "company": "Florence Nightingale Hospital",
+            "score": 60,
+            "sent": false
+          },
+          {
+            "title": "Backend Game Developer",
+            "company": "Spyke Games",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Software Engineer, JAVA",
+            "company": "iyzico",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Software Developer",
+            "company": "MAD Parfumeur",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Planner",
+            "company": "DeFacto",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Presales Engineer",
+            "company": "EVAM",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "HR Analytics Executive",
+            "company": "arabam.com",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": []
+      }
+    ]
   }
 ]
