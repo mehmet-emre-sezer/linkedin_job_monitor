@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "timestamp": "2026-07-07T10:29:44.903864",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\") AND NOT (\"Junior\" OR \"Intern\")",
+        "jobs": [
+          {
+            "title": "Research Analyst [Open to internal and external applicants]",
+            "company": "UNDP Careers",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "CTO / Teknoloji Ortağı (Chief Technology Officer)",
+            "company": "Erkanlı Holding",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": []
+      }
+    ]
+  }
+]
