@@ -242,5 +242,49 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-08T14:05:24.213901",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\") AND NOT (\"Junior\" OR \"Intern\")",
+        "jobs": [
+          {
+            "title": "Senior Internal Control and Data Analytics Specialist - Hybrid",
+            "company": "Pegasus Airlines",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "P&C Retail Insurance Member - Non Motor Portfolio",
+            "company": "Allianz",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "P&C Retail Insurance Member - UW",
+            "company": "Allianz",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": []
+      }
+    ]
   }
 ]
