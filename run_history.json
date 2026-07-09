@@ -349,5 +349,191 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-09T14:59:53.549923",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Data Engineer",
+            "company": "Sigortam.net",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Robotics Software Engineer",
+            "company": "RB-Ware",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Python Backend Developer",
+            "company": "Yuppo",
+            "score": 90,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": [
+          {
+            "title": "Data Engineer",
+            "company": "Sigortam.net",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Data Engineer",
+            "company": "Sigortam.net",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Robotics Software Engineer",
+            "company": "RB-Ware",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Python Backend Developer",
+            "company": "Yuppo",
+            "score": 90,
+            "sent": true
+          },
+          {
+            "title": "Yazılım Geliştirici (Android Uygulamalar)",
+            "company": "BİM Birleşik Mağazalar A.Ş",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\") AND NOT (\"Junior\" OR \"Intern\")",
+        "jobs": [
+          {
+            "title": "Data Engineer",
+            "company": "Sigortam.net",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Robotics Software Engineer",
+            "company": "RB-Ware",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Python Backend Developer",
+            "company": "Yuppo",
+            "score": 90,
+            "sent": true
+          },
+          {
+            "title": "Yazılım Geliştirici (Android Uygulamalar)",
+            "company": "BİM Birleşik Mağazalar A.Ş",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Analyst",
+            "company": "HubX",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Engineer",
+            "company": "TikTak",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "İş Analisti – Çağrı Merkezi & Müşteri Deneyimi",
+            "company": "Callby.ai",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zeka Proje Koordinatörü",
+            "company": "UBIT Bilgi Teknolojileri",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Digital Solutions Specialist (Fixed Term- 12 Month)",
+            "company": "FLORMAR",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Data Architect / Database Engineer",
+            "company": "Algosense",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Commercial BI (Business Intelligence) Manager",
+            "company": "Johnson & Johnson MedTech",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Product Owner",
+            "company": "n11",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Financial Reporting & Business Intelligence Manager",
+            "company": "Kron",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "IT Business Analyst (SWIFT)",
+            "company": "ING Hubs Türkiye",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Java Software Engineer",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Data Engineer",
+            "company": "Sigortam.net",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Robotics Software Engineer",
+            "company": "RB-Ware",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Python Backend Developer",
+            "company": "Yuppo",
+            "score": 90,
+            "sent": true
+          }
+        ]
+      }
+    ]
   }
 ]
