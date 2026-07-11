@@ -98,5 +98,100 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-11T17:57:42.958418",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "DERİN ÖĞRENME MÜHENDİSİ",
+            "company": "Arcimed Plastik Kalıp ve Medikal San. Ltd.",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "YAPAY ZEKÂ ARAŞTIRMACISI",
+            "company": "",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\") AND NOT (\"Junior\" OR \"Intern\")",
+        "jobs": [
+          {
+            "title": "DERİN ÖĞRENME MÜHENDİSİ",
+            "company": "Arcimed Plastik Kalıp ve Medikal San. Ltd.",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "YAPAY ZEKÂ ARAŞTIRMACISI",
+            "company": "",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Software Engineer (.NET) – Mid/Senior",
+            "company": "Mimeda",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "VERİ BİLİMCİ",
+            "company": "Arcimed Plastik Kalıp ve Medikal San. Ltd.",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "DERİN ÖĞRENME MÜHENDİSİ",
+            "company": "Arcimed Plastik Kalıp ve Medikal San. Ltd.",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "YAPAY ZEKÂ ARAŞTIRMACISI",
+            "company": "",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\") AND NOT (\"Senior\" OR \"Lead\")",
+        "jobs": [
+          {
+            "title": "DERİN ÖĞRENME MÜHENDİSİ",
+            "company": "Arcimed Plastik Kalıp ve Medikal San. Ltd.",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "YAPAY ZEKÂ ARAŞTIRMACISI",
+            "company": "",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Junior DevOps Engineer",
+            "company": "Machinarium",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      }
+    ]
   }
 ]
