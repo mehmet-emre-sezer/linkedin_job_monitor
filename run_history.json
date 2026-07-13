@@ -1,1 +1,326 @@
-[]
+[
+  {
+    "timestamp": "2026-07-13T18:52:14.153211",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\" OR \"Computer Vision\")",
+        "jobs": [
+          {
+            "title": "Deep Learning Engineer (computer vision)",
+            "company": "OneSec",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Machine Learning Engineer for Large Scale AI Project (Computer Vision)",
+            "company": "OneSec",
+            "score": 92,
+            "sent": true
+          },
+          {
+            "title": "AI Engineer",
+            "company": "ForInvest",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Scientist",
+            "company": "Bigger Games",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "Pentanom Talent",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior AI/LLM Data Scientist in Agentic AI",
+            "company": "TalenTown İnsan Kaynakları - İşe Alım Ajansı",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Product Engineer",
+            "company": "Scate AI",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Simulation Engineer (NVIDIA Omniverse, Python, Robotics)",
+            "company": "Grid Dynamics",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Simulation Engineer (NVIDIA Omniverse, Python, Robotics)",
+            "company": "Grid Dynamics",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Estimation and Sensor Fusion Engineer",
+            "company": "DSS Aerospace",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Embedded Software & Robotics Developer (AI Drone Delivery Startup)",
+            "company": "OneSec",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\" OR \"Statistical Modeling\") AND NOT (\"Junior\" OR \"Intern\")",
+        "jobs": [
+          {
+            "title": "Deep Learning Engineer (computer vision)",
+            "company": "OneSec",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Machine Learning Engineer for Large Scale AI Project (Computer Vision)",
+            "company": "OneSec",
+            "score": 92,
+            "sent": true
+          },
+          {
+            "title": "AI Engineer",
+            "company": "ForInvest",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Scientist",
+            "company": "Bigger Games",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "Pentanom Talent",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior AI/LLM Data Scientist in Agentic AI",
+            "company": "TalenTown İnsan Kaynakları - İşe Alım Ajansı",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Product Engineer",
+            "company": "Scate AI",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Simulation Engineer (NVIDIA Omniverse, Python, Robotics)",
+            "company": "Grid Dynamics",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Simulation Engineer (NVIDIA Omniverse, Python, Robotics)",
+            "company": "Grid Dynamics",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Teknoloji ve Veri Analitiği Yöneticisi",
+            "company": "Akiş GYO",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Customer Growth Data Analytics Specialist / Supervisor",
+            "company": "n11",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\" OR \"Artificial Intelligence\") AND NOT (\"Senior\" OR \"Lead\")",
+        "jobs": [
+          {
+            "title": "Deep Learning Engineer (computer vision)",
+            "company": "OneSec",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Machine Learning Engineer for Large Scale AI Project (Computer Vision)",
+            "company": "OneSec",
+            "score": 92,
+            "sent": true
+          },
+          {
+            "title": "AI Engineer",
+            "company": "ForInvest",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Scientist",
+            "company": "Bigger Games",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "Pentanom Talent",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior AI/LLM Data Scientist in Agentic AI",
+            "company": "TalenTown İnsan Kaynakları - İşe Alım Ajansı",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Product Engineer",
+            "company": "Scate AI",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "RPA Developer",
+            "company": "cognera ai",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Statistical Modeling\" OR \"Machine Learning\")",
+        "jobs": [
+          {
+            "title": "Deep Learning Engineer (computer vision)",
+            "company": "OneSec",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Machine Learning Engineer for Large Scale AI Project (Computer Vision)",
+            "company": "OneSec",
+            "score": 92,
+            "sent": true
+          },
+          {
+            "title": "AI Engineer",
+            "company": "ForInvest",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Scientist",
+            "company": "Bigger Games",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "Pentanom Talent",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior AI/LLM Data Scientist in Agentic AI",
+            "company": "TalenTown İnsan Kaynakları - İşe Alım Ajansı",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Product Engineer",
+            "company": "Scate AI",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Teknoloji ve Veri Analitiği Yöneticisi",
+            "company": "Akiş GYO",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Deep Learning Engineer (computer vision)",
+            "company": "OneSec",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Machine Learning Engineer for Large Scale AI Project (Computer Vision)",
+            "company": "OneSec",
+            "score": 92,
+            "sent": true
+          },
+          {
+            "title": "AI Engineer",
+            "company": "ForInvest",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Scientist",
+            "company": "Bigger Games",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "Pentanom Talent",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior AI/LLM Data Scientist in Agentic AI",
+            "company": "TalenTown İnsan Kaynakları - İşe Alım Ajansı",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Product Engineer",
+            "company": "Scate AI",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Simulation Engineer (NVIDIA Omniverse, Python, Robotics)",
+            "company": "Grid Dynamics",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Simulation Engineer (NVIDIA Omniverse, Python, Robotics)",
+            "company": "Grid Dynamics",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Estimation and Sensor Fusion Engineer",
+            "company": "DSS Aerospace",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "RPA Developer",
+            "company": "cognera ai",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      }
+    ]
+  }
+]
