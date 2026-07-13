@@ -288,5 +288,50 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-13T10:32:19.553804",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Statistical Modeling\" OR \"Data Visualization\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\") AND NOT (\"Junior\" OR \"Intern\")",
+        "jobs": [
+          {
+            "title": "Senior AI/LLM Data Scientist in Agentic AI",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Engineer",
+            "company": "Fair Analytics",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\")",
+        "jobs": [
+          {
+            "title": "Senior AI/LLM Data Scientist in Agentic AI",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\") AND NOT (\"Senior\" OR \"Lead\")",
+        "jobs": []
+      }
+    ]
   }
 ]
