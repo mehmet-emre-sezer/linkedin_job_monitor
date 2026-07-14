@@ -322,5 +322,123 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-14T09:09:55.855826",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\" OR \"Computer Vision\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\" OR \"Statistical Modeling\") AND NOT (\"Junior\" OR \"Intern\")",
+        "jobs": [
+          {
+            "title": "R&D Engineer 'Applied Data Science'",
+            "company": "Yapı Kredi Teknoloji",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data analys (H/F)",
+            "company": "PT. Datacenter Indonesia Sukses Makmur",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior ML / AI Engineer",
+            "company": "Fair Analytics",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Product Lead",
+            "company": "Boyner Buyuk Magazacilik A.S.",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Applied AI Scientist",
+            "company": "Fair Analytics",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Analyst",
+            "company": "Fair Analytics",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior CAE Engineer",
+            "company": "Mercedes-Benz Türk A.Ş.",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\" OR \"Artificial Intelligence\") AND NOT (\"Senior\" OR \"Lead\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Statistical Modeling\" OR \"Machine Learning\")",
+        "jobs": [
+          {
+            "title": "R&D Engineer 'Applied Data Science'",
+            "company": "Yapı Kredi Teknoloji",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior ML / AI Engineer",
+            "company": "Fair Analytics",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Product Lead",
+            "company": "Boyner Buyuk Magazacilik A.S.",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Applied AI Scientist",
+            "company": "Fair Analytics",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Analyst",
+            "company": "Fair Analytics",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior CAE Engineer",
+            "company": "Mercedes-Benz Türk A.Ş.",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Scientist",
+            "company": "Fair Analytics",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Senior ML / AI Engineer",
+            "company": "Fair Analytics",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
