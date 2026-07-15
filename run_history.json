@@ -550,5 +550,89 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-15T13:43:57.409889",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\" OR \"Computer Vision\")",
+        "jobs": [
+          {
+            "title": "AI Artist - Generative Video & AI Post-Production",
+            "company": "RN Studio",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Science Manager",
+            "company": "",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\" OR \"Statistical Modeling\") AND NOT (\"Junior\" OR \"Intern\")",
+        "jobs": [
+          {
+            "title": "AI Artist - Generative Video & AI Post-Production",
+            "company": "RN Studio",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Science Manager",
+            "company": "",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\" OR \"Artificial Intelligence\") AND NOT (\"Senior\" OR \"Lead\")",
+        "jobs": [
+          {
+            "title": "AI Artist - Generative Video & AI Post-Production",
+            "company": "RN Studio",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Science Manager",
+            "company": "",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Statistical Modeling\" OR \"Machine Learning\")",
+        "jobs": [
+          {
+            "title": "Data Science Manager",
+            "company": "",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "AI Artist - Generative Video & AI Post-Production",
+            "company": "RN Studio",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Science Manager",
+            "company": "",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
