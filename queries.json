@@ -1,7 +1,7 @@
 [
-  "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\" OR \"Computer Vision\")",
-  "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\" OR \"Statistical Modeling\") AND NOT (\"Junior\" OR \"Intern\")",
-  "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\" OR \"Artificial Intelligence\") AND NOT (\"Senior\" OR \"Lead\")",
-  "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Statistical Modeling\" OR \"Machine Learning\")",
-  "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\" OR \"Deep Learning\")"
+  "(\"Data Scientist\" OR \"Machine Learning Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+  "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Junior\" OR \"Intern\")",
+  "(\"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Computer Vision\")",
+  "(\"Machine Learning Engineer\" OR \"Data Scientist\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\")",
+  "(\"Data Science\" OR \"AI\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Machine Learning\") AND NOT (\"Senior\" OR \"Lead\")"
 ]
