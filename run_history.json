@@ -673,5 +673,101 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-16T09:20:38.298446",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\" OR \"Computer Vision\")",
+        "jobs": [
+          {
+            "title": "AI Engineer - Remote",
+            "company": "YO IT Consulting",
+            "score": 85,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Machine Learning\" OR \"Statistical Modeling\") AND NOT (\"Junior\" OR \"Intern\")",
+        "jobs": [
+          {
+            "title": "AI Engineer - Remote",
+            "company": "YO IT Consulting",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Associate Data Analytics Consultant - New Graduate (Entry Level)",
+            "company": "SnA Consulting",
+            "score": 92,
+            "sent": true
+          },
+          {
+            "title": "MLOps Engineer",
+            "company": "OBSS",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Associate Data & AI Engineering Consultant - New Graduate (Entry Level)",
+            "company": "SnA Consulting",
+            "score": 92,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Deep Learning\" OR \"Artificial Intelligence\") AND NOT (\"Senior\" OR \"Lead\")",
+        "jobs": [
+          {
+            "title": "AI Engineer - Remote",
+            "company": "YO IT Consulting",
+            "score": 85,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Statistical Modeling\" OR \"Machine Learning\")",
+        "jobs": [
+          {
+            "title": "AI Engineer - Remote",
+            "company": "YO IT Consulting",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "MLOps Engineer",
+            "company": "OBSS",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Associate Data & AI Engineering Consultant - New Graduate (Entry Level)",
+            "company": "SnA Consulting",
+            "score": 92,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Computer Vision\" OR \"Artificial Intelligence\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "AI Engineer - Remote",
+            "company": "YO IT Consulting",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Artificial Intelligence Engineer",
+            "company": "IMPETUS EXECUTIVE",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
