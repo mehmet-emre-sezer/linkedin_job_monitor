@@ -310,5 +310,305 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-17T13:33:00.488737",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Rollic",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Veri Bilimcisi",
+            "company": "Koçtaş",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Senior AI Engineer",
+            "company": "Voltran App",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Forward Deployed AI Engineer",
+            "company": "arabam.com",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "AI Engineer (Full Stack)",
+            "company": "Promake",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "AI & Software R&D Team Lead",
+            "company": "SemperTech",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Yazılım Mühendisi",
+            "company": "Brandis Design",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Full Stack Developer",
+            "company": "Voltran App",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Junior\" OR \"Intern\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Rollic",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Veri Bilimcisi",
+            "company": "Koçtaş",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Senior AI Engineer",
+            "company": "Voltran App",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Forward Deployed AI Engineer",
+            "company": "arabam.com",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "AI Engineer (Full Stack)",
+            "company": "Promake",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "AI & Software R&D Team Lead",
+            "company": "SemperTech",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Analitik Model Proje ve Koordinasyon Uzmanı",
+            "company": "Yapı Kredi",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Business Intelligence Developer",
+            "company": "Gratis",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Associate Managing Consultant, Performance Analytics - Advisors & Consulting Services",
+            "company": "Mastercard",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Computer Vision\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Rollic",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Veri Bilimcisi",
+            "company": "Koçtaş",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Senior AI Engineer",
+            "company": "Voltran App",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Forward Deployed AI Engineer",
+            "company": "arabam.com",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "AI Engineer (Full Stack)",
+            "company": "Promake",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "AI & Software R&D Team Lead",
+            "company": "SemperTech",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Yazılım Mühendisi",
+            "company": "Brandis Design",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Full Stack Developer",
+            "company": "Voltran App",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Machine Learning Engineer\" OR \"Data Scientist\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Rollic",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Veri Bilimcisi",
+            "company": "Koçtaş",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Senior AI Engineer",
+            "company": "Voltran App",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Forward Deployed AI Engineer",
+            "company": "arabam.com",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "AI Engineer (Full Stack)",
+            "company": "Promake",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "AI & Software R&D Team Lead",
+            "company": "SemperTech",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Yazılım Mühendisi",
+            "company": "Brandis Design",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Full Stack Developer",
+            "company": "Voltran App",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Analitik Model Proje ve Koordinasyon Uzmanı",
+            "company": "Yapı Kredi",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Backend Engineer",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"AI\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Machine Learning\") AND NOT (\"Senior\" OR \"Lead\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Rollic",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Veri Bilimcisi",
+            "company": "Koçtaş",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Senior AI Engineer",
+            "company": "Voltran App",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Forward Deployed AI Engineer",
+            "company": "arabam.com",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "AI Engineer (Full Stack)",
+            "company": "Promake",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "AI & Software R&D Team Lead",
+            "company": "SemperTech",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Analitik Model Proje ve Koordinasyon Uzmanı",
+            "company": "Yapı Kredi",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Business Intelligence Developer",
+            "company": "Gratis",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Associate Managing Consultant, Performance Analytics - Advisors & Consulting Services",
+            "company": "Mastercard",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Veri ve İçgörü Analisti",
+            "company": "Abdi Ibrahim Pharmaceuticals",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      }
+    ]
   }
 ]
