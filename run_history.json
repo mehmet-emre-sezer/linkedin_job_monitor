@@ -1,1 +1,314 @@
-[]
+[
+  {
+    "timestamp": "2026-07-17T09:17:40.743202",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Data Scientist – Personalization & Search",
+            "company": "LC Waikiki",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Mid/Senior Data Scientist - Optimization & Generative AI",
+            "company": "LC Waikiki",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Yazılım Mühendisi",
+            "company": "Massive Marine AI",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior AI Engineer",
+            "company": "Gini Talent",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Founder's Office (Agentic AI Engineer)",
+            "company": "F4e",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Data Engineer",
+            "company": "Trendify Data & AI",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"Machine Learning\" OR \"AI\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Junior\" OR \"Intern\")",
+        "jobs": [
+          {
+            "title": "Data Scientist – Personalization & Search",
+            "company": "LC Waikiki",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Mid/Senior Data Scientist - Optimization & Generative AI",
+            "company": "LC Waikiki",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Yazılım Mühendisi",
+            "company": "Massive Marine AI",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior AI Engineer",
+            "company": "Gini Talent",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Founder's Office (Agentic AI Engineer)",
+            "company": "F4e",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Data Engineer",
+            "company": "Trendify Data & AI",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Specialist",
+            "company": "Groupe SEB",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Research and Economics Manager",
+            "company": "Yandex Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Business Intelligence Assistant",
+            "company": "Mavi",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Data and AI - Solution Manager",
+            "company": "Atos",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "P&C Retail Insurance Member - Pricing & Actuarial",
+            "company": "Allianz",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Artist",
+            "company": "Tolan Films",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Engineer / Architect",
+            "company": "TalenTown İnsan Kaynakları - İşe Alım Ajansı",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Computer Vision\")",
+        "jobs": [
+          {
+            "title": "Data Scientist – Personalization & Search",
+            "company": "LC Waikiki",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Mid/Senior Data Scientist - Optimization & Generative AI",
+            "company": "LC Waikiki",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Yazılım Mühendisi",
+            "company": "Massive Marine AI",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior AI Engineer",
+            "company": "Gini Talent",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Founder's Office (Agentic AI Engineer)",
+            "company": "F4e",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Data Engineer",
+            "company": "Trendify Data & AI",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Artist",
+            "company": "Tolan Films",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Machine Learning Engineer\" OR \"Data Scientist\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Data Scientist – Personalization & Search",
+            "company": "LC Waikiki",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Mid/Senior Data Scientist - Optimization & Generative AI",
+            "company": "LC Waikiki",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Yazılım Mühendisi",
+            "company": "Massive Marine AI",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior AI Engineer",
+            "company": "Gini Talent",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Founder's Office (Agentic AI Engineer)",
+            "company": "F4e",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Data Engineer",
+            "company": "Trendify Data & AI",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Artist",
+            "company": "Tolan Films",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Product Engineer (Agentic Full-Stack)",
+            "company": "theMasters",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Software Engineer",
+            "company": "HUX AI",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior Software Engineer (AI Infrastructure)",
+            "company": "Alignerr",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Software Engineer (AI Training)",
+            "company": "Alignerr",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Java Developer (Finans Sektörü)",
+            "company": "VIRGOSOL",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"AI\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Machine Learning\") AND NOT (\"Senior\" OR \"Lead\")",
+        "jobs": [
+          {
+            "title": "Data Scientist – Personalization & Search",
+            "company": "LC Waikiki",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Mid/Senior Data Scientist - Optimization & Generative AI",
+            "company": "LC Waikiki",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Yazılım Mühendisi",
+            "company": "Massive Marine AI",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior AI Engineer",
+            "company": "Gini Talent",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Founder's Office (Agentic AI Engineer)",
+            "company": "F4e",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Data Engineer",
+            "company": "Trendify Data & AI",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Specialist",
+            "company": "Groupe SEB",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Business Intelligence Assistant",
+            "company": "Mavi",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "AI Artist",
+            "company": "Tolan Films",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      }
+    ]
+  }
+]
