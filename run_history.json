@@ -187,5 +187,131 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T13:52:01.329534",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Software Engineer - Backend”",
+            "company": "Gamegos",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Computer Vision\")",
+        "jobs": [
+          {
+            "title": "Senior AI Content Creator",
+            "company": "Koton",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Video Producer & Editor — Social Media",
+            "company": "Liwasco",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Machine Learning Engineer\" OR \"Data Scientist\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Software Engineer - Backend”",
+            "company": "Gamegos",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Data Analyst",
+            "company": "Joker Games",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Software Developer",
+            "company": "Ericsson",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Perakende Kredi Analitiği ve Risk Modelleme Yöneticisi",
+            "company": "Burgan Bank Türkiye",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"AI\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Machine Learning\") AND NOT (\"Senior\" OR \"Lead\")",
+        "jobs": [
+          {
+            "title": "Software Engineer - Backend”",
+            "company": "Gamegos",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Data Analyst",
+            "company": "Joker Games",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Perakende Kredi Analitiği ve Risk Modelleme Yöneticisi",
+            "company": "Burgan Bank Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Validasyon Uzmanı",
+            "company": "Kuveyt Turk Participation Bank",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Junior\" OR \"Intern\")",
+        "jobs": [
+          {
+            "title": "Data Analyst",
+            "company": "Joker Games",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Perakende Kredi Analitiği ve Risk Modelleme Yöneticisi",
+            "company": "Burgan Bank Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Validasyon Uzmanı",
+            "company": "Kuveyt Turk Participation Bank",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Risk Management Model Validation - Assistant Manager",
+            "company": "QNB Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Pazarlama ve Data Analitiği Yöneticisi",
+            "company": "TEB",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
