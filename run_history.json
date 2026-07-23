@@ -366,5 +366,81 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-23T09:30:03.302572",
+    "queries": [
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Computer Vision\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Machine Learning Engineer\" OR \"Data Scientist\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\")",
+        "jobs": [
+          {
+            "title": "Financial Process and Automation Specialist",
+            "company": "Mplus",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"AI\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Machine Learning\") AND NOT (\"Senior\" OR \"Lead\")",
+        "jobs": [
+          {
+            "title": "Financial Process and Automation Specialist",
+            "company": "Mplus",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Product Data Analyst",
+            "company": "Sipay",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Analyst (On-site in Dubai)",
+            "company": "Puffy",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Junior\" OR \"Intern\")",
+        "jobs": [
+          {
+            "title": "Financial Process and Automation Specialist",
+            "company": "Mplus",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Product Data Analyst",
+            "company": "Sipay",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data Analyst (On-site in Dubai)",
+            "company": "Puffy",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Perakende Veri Analitiği Uzmanı",
+            "company": "Çilek",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      }
+    ]
   }
 ]
