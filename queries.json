@@ -1,7 +1,7 @@
 [
-  "(\"Data Scientist\" OR \"Machine Learning Engineer\") AND (Python OR Java) AND (\"Deep Learning\" OR \"Natural Language Processing\")",
-  "(\"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Computer Vision\")",
-  "(\"Machine Learning Engineer\" OR \"Data Scientist\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\")",
   "(\"Data Science\" OR \"AI\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Machine Learning\") AND NOT (\"Senior\" OR \"Lead\")",
-  "(\"Data Scientist\" OR \"Machine Learning Engineer\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Junior\" OR \"Intern\")"
+  "(\"Data Scientist\" OR \"Machine Learning Engineer\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Junior\" OR \"Intern\")",
+  "(\"Machine Learning Engineer\" OR \"Data Scientist\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\") AND NOT (\"Manager\" OR \"Director\")",
+  "(\"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Computer Vision\") AND NOT (\"Research\" OR \"Academic\")",
+  "(\"Data Science\" OR \"AI\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\") AND NOT (\"Sales\" OR \"Marketing\")"
 ]
