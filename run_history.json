@@ -1,1 +1,212 @@
-[]
+[
+  {
+    "timestamp": "2026-07-23T18:18:55.008567",
+    "queries": [
+      {
+        "query": "(\"Data Science\" OR \"AI\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Machine Learning\") AND NOT (\"Senior\" OR \"Lead\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Memorial Healthcare Group",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Scientist / AI Engineer",
+            "company": "Softtech",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Specialist, Generative AI & LLM",
+            "company": "Etiya",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Geospatial Data Scientist",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Full Stack Engineer",
+            "company": "BGTS International",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "İş Zekası ve Analitik Uzmanı",
+            "company": "FuzulEv",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "AI Filmmaker / Generative Video Artist",
+            "company": "Feimon",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Junior\" OR \"Intern\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Memorial Healthcare Group",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Scientist / AI Engineer",
+            "company": "Softtech",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Specialist, Generative AI & LLM",
+            "company": "Etiya",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Geospatial Data Scientist",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Full Stack Engineer",
+            "company": "BGTS International",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "İş Zekası ve Analitik Uzmanı",
+            "company": "FuzulEv",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "BI Developer & Data Automation Leader",
+            "company": "Johnson & Johnson MedTech",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Machine Learning Engineer\" OR \"Data Scientist\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\") AND NOT (\"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Memorial Healthcare Group",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Scientist / AI Engineer",
+            "company": "Softtech",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Specialist, Generative AI & LLM",
+            "company": "Etiya",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Geospatial Data Scientist",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Full Stack Engineer",
+            "company": "BGTS International",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Computer Vision\") AND NOT (\"Research\" OR \"Academic\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Memorial Healthcare Group",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Scientist / AI Engineer",
+            "company": "Softtech",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Specialist, Generative AI & LLM",
+            "company": "Etiya",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Geospatial Data Scientist",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Full Stack Engineer",
+            "company": "BGTS International",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "AI Filmmaker / Generative Video Artist",
+            "company": "Feimon",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"AI\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\") AND NOT (\"Sales\" OR \"Marketing\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Memorial Healthcare Group",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Scientist / AI Engineer",
+            "company": "Softtech",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Specialist, Generative AI & LLM",
+            "company": "Etiya",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Geospatial Data Scientist",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Full Stack Engineer",
+            "company": "BGTS International",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      }
+    ]
+  }
+]
