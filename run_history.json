@@ -491,5 +491,44 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-26T13:20:12.671165",
+    "queries": [
+      {
+        "query": "(\"Data Science\" OR \"AI\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Machine Learning\") AND NOT (\"Senior\" OR \"Lead\")",
+        "jobs": [
+          {
+            "title": "CRM & Data Analytics Yöneticisi",
+            "company": "GCM Yatırım",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Junior\" OR \"Intern\")",
+        "jobs": [
+          {
+            "title": "CRM & Data Analytics Yöneticisi",
+            "company": "GCM Yatırım",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Machine Learning Engineer\" OR \"Data Scientist\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\") AND NOT (\"Manager\" OR \"Director\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Computer Vision\") AND NOT (\"Research\" OR \"Academic\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"AI\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\") AND NOT (\"Sales\" OR \"Marketing\")",
+        "jobs": []
+      }
+    ]
   }
 ]
