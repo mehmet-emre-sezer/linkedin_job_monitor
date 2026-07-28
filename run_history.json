@@ -211,5 +211,143 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-28T14:07:30.904087",
+    "queries": [
+      {
+        "query": "(\"Data Science\" OR \"AI\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Machine Learning\") AND NOT (\"Senior\" OR \"Lead\")",
+        "jobs": [
+          {
+            "title": "Senior NLP/LLM/LLMOps Data Scientist",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "İş Zekası Uzmanı - REF: 26JFR8J",
+            "company": "ebebek",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "İş Analisti",
+            "company": "dataliva",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Bioinformatics Specialist",
+            "company": "Roche",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Java Software Engineer",
+            "company": "Mirsis Bilgi Teknolojileri",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Junior\" OR \"Intern\") AND NOT (\"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "Senior NLP/LLM/LLMOps Data Scientist",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "İş Zekası Uzmanı - REF: 26JFR8J",
+            "company": "ebebek",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Bioinformatics Specialist",
+            "company": "Roche",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Machine Learning Engineer\" OR \"Data Scientist\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\") AND NOT (\"Research\" OR \"Academic\") AND NOT (\"Sales\" OR \"Marketing\")",
+        "jobs": [
+          {
+            "title": "Senior NLP/LLM/LLMOps Data Scientist",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Java Software Engineer",
+            "company": "Mirsis Bilgi Teknolojileri",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Founding Engineer",
+            "company": "Operater",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Full Stack Engineer",
+            "company": "Bentego",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Solutions Architect",
+            "company": "Karadeniz Holding",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Computer Vision\") AND NOT (\"Research\" OR \"Academic\") AND NOT (\"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "Senior NLP/LLM/LLMOps Data Scientist",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Founding Engineer",
+            "company": "Operater",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"AI\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\") AND NOT (\"Sales\" OR \"Marketing\") AND NOT (\"Senior\" OR \"Lead\")",
+        "jobs": [
+          {
+            "title": "Senior NLP/LLM/LLMOps Data Scientist",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "İş Zekası Uzmanı - REF: 26JFR8J",
+            "company": "ebebek",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Bioinformatics Specialist",
+            "company": "Roche",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
