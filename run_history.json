@@ -173,5 +173,43 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-28T09:40:17.712225",
+    "queries": [
+      {
+        "query": "(\"Data Science\" OR \"AI\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Machine Learning\") AND NOT (\"Senior\" OR \"Lead\")",
+        "jobs": [
+          {
+            "title": "Data & Advanced Analytics Manager",
+            "company": "Karadeniz Holding",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Back End Developer (AI Infrastructure)",
+            "company": "Alignerr",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Junior\" OR \"Intern\") AND NOT (\"Manager\" OR \"Director\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Machine Learning Engineer\" OR \"Data Scientist\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\") AND NOT (\"Research\" OR \"Academic\") AND NOT (\"Sales\" OR \"Marketing\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Computer Vision\") AND NOT (\"Research\" OR \"Academic\") AND NOT (\"Manager\" OR \"Director\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Science\" OR \"AI\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\") AND NOT (\"Sales\" OR \"Marketing\") AND NOT (\"Senior\" OR \"Lead\")",
+        "jobs": []
+      }
+    ]
   }
 ]
