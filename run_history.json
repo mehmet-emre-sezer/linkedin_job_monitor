@@ -434,5 +434,149 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-29T14:10:35.167975",
+    "queries": [
+      {
+        "query": "(\"Data Science\" OR \"AI\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Machine Learning\") AND NOT (\"Senior\" OR \"Lead\")",
+        "jobs": [
+          {
+            "title": "AI Software Engineer",
+            "company": "Playable Factory",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Quantitative Researcher",
+            "company": "Tera Yatırım",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Business Intelligence Analyst",
+            "company": "ESFA Grup",
+            "score": 60,
+            "sent": false
+          },
+          {
+            "title": "AI-Native İçerik Üreticisi",
+            "company": "We'rea",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Data Analytics Specialist",
+            "company": "Nobel Ilac A.S",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Flutter Developer",
+            "company": "Lucida AI",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\") AND (Python OR Java) AND (\"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Junior\" OR \"Intern\") AND NOT (\"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI Software Engineer",
+            "company": "Playable Factory",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Quantitative Researcher",
+            "company": "Tera Yatırım",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Data Analytics Specialist",
+            "company": "Nobel Ilac A.S",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior Data Engineer",
+            "company": "Datazza",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Machine Learning Engineer\" OR \"Data Scientist\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\") AND NOT (\"Research\" OR \"Academic\") AND NOT (\"Sales\" OR \"Marketing\")",
+        "jobs": [
+          {
+            "title": "AI Software Engineer",
+            "company": "Playable Factory",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Quantitative Researcher",
+            "company": "Tera Yatırım",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "ADAS/AD Development Engineer",
+            "company": "FEV Türkiye",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Java Software Engineer",
+            "company": "HRINNO",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Natural Language Processing\" OR \"Computer Vision\") AND NOT (\"Research\" OR \"Academic\") AND NOT (\"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI Software Engineer",
+            "company": "Playable Factory",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Quantitative Researcher",
+            "company": "Tera Yatırım",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "AI-Native İçerik Üreticisi",
+            "company": "We'rea",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"AI\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\") AND NOT (\"Sales\" OR \"Marketing\") AND NOT (\"Senior\" OR \"Lead\")",
+        "jobs": [
+          {
+            "title": "AI Software Engineer",
+            "company": "Playable Factory",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Quantitative Researcher",
+            "company": "Tera Yatırım",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
