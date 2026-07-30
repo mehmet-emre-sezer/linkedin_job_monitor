@@ -30,5 +30,221 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-30T18:22:13.322757",
+    "queries": [
+      {
+        "query": "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Senior\" OR \"Lead\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI & Computer Vision Researcher at Robotics Startup",
+            "company": "OneSec",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Risk Analitiği Veri Bilimi Uzmanı",
+            "company": "Yapı Kredi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Forward Deployed AI Engineer, Türkiye - BCG X",
+            "company": "BCG X",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Data Engineer",
+            "company": "CBOT",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") AND NOT (\"Junior\" OR \"Intern\" OR \"Research\" OR \"Academic\")",
+        "jobs": [
+          {
+            "title": "AI & Computer Vision Researcher at Robotics Startup",
+            "company": "OneSec",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Risk Analitiği Veri Bilimi Uzmanı",
+            "company": "Yapı Kredi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Forward Deployed AI Engineer, Türkiye - BCG X",
+            "company": "BCG X",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Data Engineer",
+            "company": "CBOT",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Forward Deployed AI Scientist, Türkiye - BCG X",
+            "company": "BCG X",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Architect",
+            "company": "Vodafone",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Veri Mühendisi",
+            "company": "Koç University",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Kıdemli Endüstri Mühendisi",
+            "company": "Eminevim",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Lead Forward Deployed AI Scientist, Türkiye - BCG X",
+            "company": "BCG X",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Machine Learning Engineer\" OR \"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\" OR \"Computer Vision\") AND NOT (\"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI & Computer Vision Researcher at Robotics Startup",
+            "company": "OneSec",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Risk Analitiği Veri Bilimi Uzmanı",
+            "company": "Yapı Kredi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Forward Deployed AI Engineer, Türkiye - BCG X",
+            "company": "BCG X",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Forward Deployed AI Scientist, Türkiye - BCG X",
+            "company": "BCG X",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Architect",
+            "company": "Vodafone",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Lead Forward Deployed AI Scientist, Türkiye - BCG X",
+            "company": "BCG X",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI artist",
+            "company": "Awakening Music",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Senior\" OR \"Lead\" OR \"Manager\" OR \"Director\") AND NOT (\"Research\" OR \"Academic\")",
+        "jobs": [
+          {
+            "title": "AI & Computer Vision Researcher at Robotics Startup",
+            "company": "OneSec",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Risk Analitiği Veri Bilimi Uzmanı",
+            "company": "Yapı Kredi",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") AND NOT (\"Junior\" OR \"Intern\" OR \"Research\" OR \"Academic\") AND NOT (\"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI & Computer Vision Researcher at Robotics Startup",
+            "company": "OneSec",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Risk Analitiği Veri Bilimi Uzmanı",
+            "company": "Yapı Kredi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Forward Deployed AI Engineer, Türkiye - BCG X",
+            "company": "BCG X",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Data Engineer",
+            "company": "CBOT",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Forward Deployed AI Scientist, Türkiye - BCG X",
+            "company": "BCG X",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Architect",
+            "company": "Vodafone",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Veri Mühendisi",
+            "company": "Koç University",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Kıdemli Endüstri Mühendisi",
+            "company": "Eminevim",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Lead Forward Deployed AI Scientist, Türkiye - BCG X",
+            "company": "BCG X",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
