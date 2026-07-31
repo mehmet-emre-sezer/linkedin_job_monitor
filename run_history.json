@@ -296,5 +296,203 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-31T18:25:41.120175",
+    "queries": [
+      {
+        "query": "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Senior\" OR \"Lead\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Good Job Games",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Engineer",
+            "company": "GridStudio",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Engineer",
+            "company": "BGTS International",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "ICterra Information and Communication Technologies",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") AND NOT (\"Junior\" OR \"Intern\" OR \"Research\" OR \"Academic\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Good Job Games",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Engineer",
+            "company": "GridStudio",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Engineer",
+            "company": "BGTS International",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "ICterra Information and Communication Technologies",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior Geospatial Data Scientist",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Analyst (GenAI)",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Machine Learning Engineer\" OR \"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\" OR \"Computer Vision\") AND NOT (\"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Good Job Games",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Engineer",
+            "company": "GridStudio",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Engineer",
+            "company": "BGTS International",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "ICterra Information and Communication Technologies",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior Geospatial Data Scientist",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Software Developer",
+            "company": "ZUPPIN",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Senior\" OR \"Lead\" OR \"Manager\" OR \"Director\") AND NOT (\"Research\" OR \"Academic\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Good Job Games",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Engineer",
+            "company": "GridStudio",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Engineer",
+            "company": "BGTS International",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "ICterra Information and Communication Technologies",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") AND NOT (\"Junior\" OR \"Intern\" OR \"Research\" OR \"Academic\") AND NOT (\"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI Engineer",
+            "company": "Good Job Games",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Engineer",
+            "company": "GridStudio",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Engineer",
+            "company": "BGTS International",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "ICterra Information and Communication Technologies",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior Geospatial Data Scientist",
+            "company": "Doktar Technologies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Analyst (GenAI)",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Software Developer",
+            "company": "ZUPPIN",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Kıdemli Veri Mühendisi",
+            "company": "Pentanom Talent",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
