@@ -251,5 +251,161 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-03T18:56:46.781360",
+    "queries": [
+      {
+        "query": "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Senior\" OR \"Lead\" OR \"Manager\" OR \"Director\" OR \"Research\" OR \"Academic\")",
+        "jobs": [
+          {
+            "title": "AI Software Engineer(Python)",
+            "company": "Dizayn VIP",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Channel Analytics & Transformation Junior/Midlevel",
+            "company": "Enpara.com",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "ICterra Information and Communication Technologies",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") AND NOT (\"Junior\" OR \"Intern\" OR \"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI Software Engineer(Python)",
+            "company": "Dizayn VIP",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "ICterra Information and Communication Technologies",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior AI Engineer",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Engineering Manager",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Fraud Prevention Analytical Specialist",
+            "company": "IBTECH A.S.",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Machine Learning Engineer\" OR \"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\" OR \"Computer Vision\") AND NOT (\"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\" OR \"Research\" OR \"Academic\")",
+        "jobs": [
+          {
+            "title": "AI Software Engineer(Python)",
+            "company": "Dizayn VIP",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "ICterra Information and Communication Technologies",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior AI Engineer",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Engineering Manager",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Senior\" OR \"Lead\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI Software Engineer(Python)",
+            "company": "Dizayn VIP",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Channel Analytics & Transformation Junior/Midlevel",
+            "company": "Enpara.com",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "ICterra Information and Communication Technologies",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Fraud Prevention Analytical Specialist",
+            "company": "IBTECH A.S.",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") AND NOT (\"Junior\" OR \"Intern\" OR \"Research\" OR \"Academic\" OR \"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI Software Engineer(Python)",
+            "company": "Dizayn VIP",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "ICterra Information and Communication Technologies",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Senior AI Engineer",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Engineering Manager",
+            "company": "Apilex",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Fraud Prevention Analytical Specialist",
+            "company": "IBTECH A.S.",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      }
+    ]
   }
 ]
