@@ -1,7 +1,7 @@
 [
-  "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Senior\" OR \"Lead\" OR \"Manager\" OR \"Director\" OR \"Research\" OR \"Academic\")",
-  "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") AND NOT (\"Junior\" OR \"Intern\" OR \"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
-  "(\"Machine Learning Engineer\" OR \"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\" OR \"Computer Vision\") AND NOT (\"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\" OR \"Research\" OR \"Academic\")",
-  "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") AND NOT (\"Senior\" OR \"Lead\" OR \"Manager\" OR \"Director\")",
-  "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") AND NOT (\"Junior\" OR \"Intern\" OR \"Research\" OR \"Academic\" OR \"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")"
+  "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\")",
+  "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\")",
+  "(\"Machine Learning Engineer\" OR \"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\" OR \"Computer Vision\") NOT (\"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+  "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") NOT (\"Senior\" OR \"Lead\" OR \"Manager\" OR \"Director\")",
+  "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") NOT (\"Junior\" OR \"Intern\" OR \"Research\" OR \"Academic\" OR \"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")"
 ]
