@@ -1,1 +1,140 @@
-[]
+[
+  {
+    "timestamp": "2026-08-06T09:44:14.321514",
+    "queries": [
+      {
+        "query": "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\")",
+        "jobs": [
+          {
+            "title": "Optimization ML Specialist",
+            "company": "Avenga Water Well Service, LLC",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Retail & Micro SME Credit Analytics Manager",
+            "company": "TEB",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "Setur",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Optimization ML Specialist",
+            "company": "Avenga Water Well Service, LLC",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "Setur",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Forward Deployed Engineer (AI) - Fastest Growing AI Start-up in Europe",
+            "company": "Morela Solutions",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Machine Learning Engineer\" OR \"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\" OR \"Computer Vision\") NOT (\"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "Optimization ML Specialist",
+            "company": "Avenga Water Well Service, LLC",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "Setur",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Forward Deployed Engineer (AI) - Fastest Growing AI Start-up in Europe",
+            "company": "Morela Solutions",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Robotik Yazılım Mühendisi",
+            "company": "Kagen Robotics",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "AI Image & Motion Artist - Fashion",
+            "company": "DEPARTMENT VISUAL",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Junior AI-Augmented Software Developer (Full-Stack)",
+            "company": "The Leapers",
+            "score": 85,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") NOT (\"Senior\" OR \"Lead\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "Optimization ML Specialist",
+            "company": "Avenga Water Well Service, LLC",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "Setur",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") NOT (\"Junior\" OR \"Intern\" OR \"Research\" OR \"Academic\" OR \"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "Optimization ML Specialist",
+            "company": "Avenga Water Well Service, LLC",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Yapay Zeka Mühendisi",
+            "company": "Setur",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Forward Deployed Engineer (AI) - Fastest Growing AI Start-up in Europe",
+            "company": "Morela Solutions",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Robotik Yazılım Mühendisi",
+            "company": "Kagen Robotics",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      }
+    ]
+  }
+]
