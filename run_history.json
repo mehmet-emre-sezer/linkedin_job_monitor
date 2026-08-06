@@ -136,5 +136,76 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-06T14:08:02.914617",
+    "queries": [
+      {
+        "query": "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\")",
+        "jobs": [
+          {
+            "title": "Senior Data Scientist",
+            "company": "Tigris Smart Technologies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Büyüme ve Veri Analitiği Müdürü",
+            "company": "FLO Group",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\")",
+        "jobs": [
+          {
+            "title": "Senior Data Scientist",
+            "company": "Tigris Smart Technologies",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Machine Learning Engineer\" OR \"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\" OR \"Computer Vision\") NOT (\"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "Senior Data Scientist",
+            "company": "Tigris Smart Technologies",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") NOT (\"Senior\" OR \"Lead\" OR \"Manager\" OR \"Director\")",
+        "jobs": []
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") NOT (\"Junior\" OR \"Intern\" OR \"Research\" OR \"Academic\" OR \"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "Senior Data Scientist",
+            "company": "Tigris Smart Technologies",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Senior/Lead GCP Data Engineer",
+            "company": "ING Hubs Türkiye",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Full Stack Developer",
+            "company": "Neon Apps",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
