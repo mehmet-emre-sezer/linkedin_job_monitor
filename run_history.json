@@ -132,5 +132,65 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-10T17:57:25.419395",
+    "queries": [
+      {
+        "query": "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") NOT (\"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "Machine Learning Engineer – Privacy-Preserving AI",
+            "company": "enCRYPTON Labs",
+            "score": 92,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") NOT (\"Junior\" OR \"Intern\" OR \"Research\" OR \"Academic\" OR \"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "Machine Learning Engineer – Privacy-Preserving AI",
+            "company": "enCRYPTON Labs",
+            "score": 92,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Machine Learning Engineer\" OR \"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\" OR \"Computer Vision\") NOT (\"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "Machine Learning Engineer – Privacy-Preserving AI",
+            "company": "enCRYPTON Labs",
+            "score": 92,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR R OR SQL) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") NOT (\"Senior\" OR \"Lead\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "Machine Learning Engineer – Privacy-Preserving AI",
+            "company": "enCRYPTON Labs",
+            "score": 92,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") NOT (\"Junior\" OR \"Intern\" OR \"Research\" OR \"Academic\")",
+        "jobs": [
+          {
+            "title": "Machine Learning Engineer – Privacy-Preserving AI",
+            "company": "enCRYPTON Labs",
+            "score": 92,
+            "sent": true
+          }
+        ]
+      }
+    ]
   }
 ]
