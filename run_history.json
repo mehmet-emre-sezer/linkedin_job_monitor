@@ -23,5 +23,89 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-10T08:43:19.208541",
+    "queries": [
+      {
+        "query": "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") NOT (\"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "Data Analyst",
+            "company": "Bold Games",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Robotik Yazılım Mühendisi",
+            "company": "Kagen Robotics",
+            "score": 0,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") NOT (\"Junior\" OR \"Intern\" OR \"Research\" OR \"Academic\" OR \"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "Robotik Yazılım Mühendisi",
+            "company": "Kagen Robotics",
+            "score": 0,
+            "sent": false
+          },
+          {
+            "title": "Senior Data Engineer",
+            "company": "bitaksi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Full Stack Engineer",
+            "company": "",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Machine Learning Engineer\" OR \"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\" OR \"Computer Vision\") NOT (\"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "Robotik Yazılım Mühendisi",
+            "company": "Kagen Robotics",
+            "score": 0,
+            "sent": false
+          },
+          {
+            "title": "Robotik Çözüm Danışmanı",
+            "company": "Kagen Robotics",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR R OR SQL) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") NOT (\"Senior\" OR \"Lead\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "Data Analyst",
+            "company": "Bold Games",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") NOT (\"Junior\" OR \"Intern\" OR \"Research\" OR \"Academic\")",
+        "jobs": [
+          {
+            "title": "Senior Data Engineer",
+            "company": "bitaksi",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
