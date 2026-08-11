@@ -444,5 +444,197 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-11T18:04:08.845835",
+    "queries": [
+      {
+        "query": "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") NOT (\"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI & Analytics Engineer",
+            "company": "Beat Software Solutions",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "İş Analitiği ve Veri Mühendisi",
+            "company": "Tat Gıda",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Artificial Intelligence Manager",
+            "company": "GİZLİ",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Engineer",
+            "company": "Marti Technologies (NYSE: MRT)",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Data & Analytics Consultant",
+            "company": "Neowise",
+            "score": 80,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") NOT (\"Junior\" OR \"Intern\" OR \"Research\" OR \"Academic\" OR \"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI & Analytics Engineer",
+            "company": "Beat Software Solutions",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "İş Analitiği ve Veri Mühendisi",
+            "company": "Tat Gıda",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Artificial Intelligence Manager",
+            "company": "GİZLİ",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Engineer",
+            "company": "Marti Technologies (NYSE: MRT)",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Jr Prompt Engineer",
+            "company": "Papcorns",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Software Engineer",
+            "company": "Spyke Games",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Machine Learning Engineer\" OR \"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\" OR \"Computer Vision\") NOT (\"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI & Analytics Engineer",
+            "company": "Beat Software Solutions",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "İş Analitiği ve Veri Mühendisi",
+            "company": "Tat Gıda",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Artificial Intelligence Manager",
+            "company": "GİZLİ",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Engineer",
+            "company": "Marti Technologies (NYSE: MRT)",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Jr Prompt Engineer",
+            "company": "Papcorns",
+            "score": 85,
+            "sent": true
+          },
+          {
+            "title": "Software Engineer",
+            "company": "Spyke Games",
+            "score": 40,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR R OR SQL) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") NOT (\"Senior\" OR \"Lead\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI & Analytics Engineer",
+            "company": "Beat Software Solutions",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "İş Analitiği ve Veri Mühendisi",
+            "company": "Tat Gıda",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Artificial Intelligence Manager",
+            "company": "GİZLİ",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data & Analytics Consultant",
+            "company": "Neowise",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Jr Prompt Engineer",
+            "company": "Papcorns",
+            "score": 85,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") NOT (\"Junior\" OR \"Intern\" OR \"Research\" OR \"Academic\")",
+        "jobs": [
+          {
+            "title": "AI & Analytics Engineer",
+            "company": "Beat Software Solutions",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "İş Analitiği ve Veri Mühendisi",
+            "company": "Tat Gıda",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Artificial Intelligence Manager",
+            "company": "GİZLİ",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data Engineer",
+            "company": "Marti Technologies (NYSE: MRT)",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Jr Prompt Engineer",
+            "company": "Papcorns",
+            "score": 85,
+            "sent": true
+          }
+        ]
+      }
+    ]
   }
 ]
