@@ -494,5 +494,185 @@
         "jobs": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-14T08:24:56.310633",
+    "queries": [
+      {
+        "query": "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR R OR SQL) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") NOT (\"Senior\" OR \"Lead\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI & Data Scientist (Researcher)",
+            "company": "Sompo Teknoloji",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Kıdemli Yapay Zeka Uzmanı",
+            "company": "Eksim Holding",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") NOT (\"Junior\" OR \"Intern\" OR \"Research\" OR \"Academic\" OR \"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI & Data Scientist (Researcher)",
+            "company": "Sompo Teknoloji",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Kıdemli Yapay Zeka Uzmanı",
+            "company": "Eksim Holding",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Kıdemli Yapay Zeka Mühendisi",
+            "company": "Turkcell Global Bilgi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Kıdemli Yapay Zeka Mühendisi (LLM & Agentic Systems)",
+            "company": "Sompo Teknoloji",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data&AI Tech Lead",
+            "company": "Accenture",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data & Governance engineer (Databricks)",
+            "company": "Accenture",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Senior Python Engineer",
+            "company": "Accenture",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Machine Learning Engineer\" OR \"Data Scientist\" OR \"AI Engineer\") AND (Python OR Java) AND (\"Artificial Intelligence\" OR \"Deep Learning\" OR \"Computer Vision\") NOT (\"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI & Data Scientist (Researcher)",
+            "company": "Sompo Teknoloji",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Kıdemli Yapay Zeka Uzmanı",
+            "company": "Eksim Holding",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Kıdemli Yapay Zeka Mühendisi",
+            "company": "Turkcell Global Bilgi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Kıdemli Yapay Zeka Mühendisi (LLM & Agentic Systems)",
+            "company": "Sompo Teknoloji",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data&AI Tech Lead",
+            "company": "Accenture",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "AI Video & Creative Content Specialist",
+            "company": "foure ventures",
+            "score": 40,
+            "sent": false
+          },
+          {
+            "title": "Founding Engineer (Volunteer)",
+            "company": "EOAI Lab",
+            "score": 90,
+            "sent": true
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Science\" OR \"AI\" OR \"Machine Learning\") AND (Python OR Java) AND (\"Data Visualization\" OR \"Data Analysis\" OR \"Statistical Modeling\") NOT (\"Sales\" OR \"Marketing\" OR \"Manager\" OR \"Director\")",
+        "jobs": [
+          {
+            "title": "AI & Data Scientist (Researcher)",
+            "company": "Sompo Teknoloji",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Kıdemli Yapay Zeka Uzmanı",
+            "company": "Eksim Holding",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Kıdemli Yapay Zeka Mühendisi",
+            "company": "Turkcell Global Bilgi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data&AI Tech Lead",
+            "company": "Accenture",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      },
+      {
+        "query": "(\"Data Scientist\" OR \"Machine Learning Engineer\" OR \"AI Engineer\") AND (Python OR R OR SQL) AND (\"Data Mining\" OR \"Predictive Modeling\" OR \"Natural Language Processing\") NOT (\"Junior\" OR \"Intern\" OR \"Research\" OR \"Academic\")",
+        "jobs": [
+          {
+            "title": "AI & Data Scientist (Researcher)",
+            "company": "Sompo Teknoloji",
+            "score": 80,
+            "sent": true
+          },
+          {
+            "title": "Kıdemli Yapay Zeka Uzmanı",
+            "company": "Eksim Holding",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Kıdemli Yapay Zeka Mühendisi",
+            "company": "Turkcell Global Bilgi",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Kıdemli Yapay Zeka Mühendisi (LLM & Agentic Systems)",
+            "company": "Sompo Teknoloji",
+            "score": 10,
+            "sent": false
+          },
+          {
+            "title": "Data&AI Tech Lead",
+            "company": "Accenture",
+            "score": 10,
+            "sent": false
+          }
+        ]
+      }
+    ]
   }
 ]
